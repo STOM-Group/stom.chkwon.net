@@ -75,11 +75,10 @@ gems:
 
 # Output options (more information on Jekyll's site)
 timezone: "America/Vancouver"
-# markdown: kramdown
-markdown: redcarpet
+markdown: kramdown
 highlighter: rouge
 permalink: /:year-:month-:day-:title/
-paginate: 5
+paginate: 10
 paginate_path: "/news/page:num/"
 
 # Default YAML values (more information on Jekyll's site)
