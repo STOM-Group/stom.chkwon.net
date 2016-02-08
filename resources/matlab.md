@@ -5,69 +5,61 @@ permalink: /matlab/
 subtitle:
 ---
 
-<h1>Some Readings</h1>
-<ul>
-	<li>(<a title="" href="http://www.glue.umd.edu/~tvp/401/matlabprob.html" rel="nofollow">LINK</a>) - Common Problems with MATLAB</li>
-	<li>(<a title="" href="http://www.rz.uni-freiburg.de/dienste/plattformen/ibm/compserver/frames/matlab/techdoc/matlab_prog/ch7_perf.html" rel="nofollow">LINK</a>) - Maximizing MATLAB Performance</li>
-	<li>(<a title="" href="http://unix.eng.ua.edu/MathWorks/manuals/techdoc/matlab_prog/ch8_pr18.html" rel="nofollow">LINK</a>) - Optimizing for Speed</li>
-	<li>(<a title="" href="http://www-h.eng.cam.ac.uk/help/tpl/programs/Matlab/faster_scripts.html" rel="nofollow">LINK</a>) - Matlab - faster scripts</li>
-	<li>(<a title="" href="http://www-h.eng.cam.ac.uk/help/tpl/programs/Matlab/tricks.html" rel="nofollow">LINK</a>) - Matlab vectorisation tricks</li>
-	<li>(<a title="" href="http://www.mathworks.com/support/tech-notes/1100/1109.shtml" rel="nofollow">LINK</a>) - Code Vectorization Guide</li>
-	<li><a title="" href="http://www.spatial-econometrics.com/" rel="nofollow">Econometrics Toolbox for MATLAB</a></li>
-</ul>
-<div></div>
-<h1>MATLAB Central File Exchange</h1>
-<ul>
-	<li><a title="" href="http://www.mathworks.com/matlabcentral/fileexchange/16179-save2pdf" rel="nofollow"><cci>save2pdf</cci></a> - Save figures as PDF files</li>
-	<li><a title="" href="http://www.mathworks.com/matlabcentral/fileexchange/25298-fig2texps-export-matlab-figure-to-latex" rel="nofollow"><cci>fig2texPS</cci></a> - Export MATLAB figures to LaTeX</li>
-	<li><a title="" href="http://www.mathworks.com/matlabcentral/fileexchange/22022" rel="nofollow"><cci>matlab2tikz</cci></a> - Save MATLAB figures as <cci>tikzpicture</cci> in LaTeX.</li>
-</ul>
-<div></div>
-<h1>Recipes</h1>
-<h2>Some useful expressions</h2>
-<ul>
-	<li>Custom function</li>
-</ul>
-<div id="sourceblock1">
-<div>
-<pre>x = fminunc(@(x) myfun(x,a),x0);
-  myfun = @(x) x+2+a;</pre>
-</div>
-<div></div>
-</div>
-<ul>
-	<li>2D plotting of 3D data</li>
-</ul>
-<div id="sourceblock2">
-<div>
-<pre>plot([1:10], squeeze(r(1,1,:)));</pre>
-</div>
-<div></div>
-</div>
-<ul>
-	<li>Repeat matrix</li>
-</ul>
-<div id="sourceblock3">
-<div>
-<pre>repmat(A, [1,1,N]);</pre>
-</div>
-<div></div>
-</div>
-<ul>
-	<li>Setting font sizes in plots</li>
-</ul>
-<div id="sourceblock4">
-<div>
-<pre>set(0,'DefaultAxesFontSize',14)</pre>
-</div>
-<div></div>
-</div>
-<div></div>
-<h2>How to control the number of markers in figure?</h2>
-When the size of data is large, using markers in plot is a pain. MATLAB simply puts all the data points with markers, so the plot looks very ugly. I found that drawing three times for a data series looks stupid, but definitely works. Please see the following codes as an example:
+* TOC
+{:toc}
+
+## Optimization
+
+See pages for [CPLEX](/cplex) and other [optimization solvers](/optimization).
+
+## Some Readings
+- (<a title="" href="http://www.glue.umd.edu/~tvp/401/matlabprob.html" rel="nofollow">LINK</a>) - Common Problems with MATLAB
+- (<a title="" href="http://www.rz.uni-freiburg.de/dienste/plattformen/ibm/compserver/frames/matlab/techdoc/matlab_prog/ch7_perf.html" rel="nofollow">LINK</a>) - Maximizing MATLAB Performance
+- (<a title="" href="http://unix.eng.ua.edu/MathWorks/manuals/techdoc/matlab_prog/ch8_pr18.html" rel="nofollow">LINK</a>) - Optimizing for Speed
+- (<a title="" href="http://www-h.eng.cam.ac.uk/help/tpl/programs/Matlab/faster_scripts.html" rel="nofollow">LINK</a>) - Matlab - faster scripts
+- (<a title="" href="http://www-h.eng.cam.ac.uk/help/tpl/programs/Matlab/tricks.html" rel="nofollow">LINK</a>) - Matlab vectorisation tricks
+- (<a title="" href="http://www.mathworks.com/support/tech-notes/1100/1109.shtml" rel="nofollow">LINK</a>) - Code Vectorization Guide
+- <a title="" href="http://www.spatial-econometrics.com/" rel="nofollow">Econometrics Toolbox for MATLAB</a>
 <div></div>
 
-```matlab
+## MATLAB Central File Exchange
+- <a title="" href="http://www.mathworks.com/matlabcentral/fileexchange/16179-save2pdf" rel="nofollow"><cci>save2pdf</cci></a> - Save figures as PDF files
+- <a title="" href="http://www.mathworks.com/matlabcentral/fileexchange/25298-fig2texps-export-matlab-figure-to-latex" rel="nofollow"><cci>fig2texPS</cci></a> - Export MATLAB figures to LaTeX
+- <a title="" href="http://www.mathworks.com/matlabcentral/fileexchange/22022" rel="nofollow"><cci>matlab2tikz</cci></a> - Save MATLAB figures as <cci>tikzpicture</cci> in LaTeX.
+<div></div>
+
+## Recipes
+
+### Some useful expressions
+- Custom function
+
+~~~ matlab
+x = fminunc(@(x) myfun(x,a),x0);
+myfun = @(x) x+2+a;
+~~~
+
+- 2D plotting of 3D data
+
+~~~ matlab
+plot([1:10], squeeze(r(1,1,:)));
+~~~
+
+- Repeat matrix
+
+~~~ matlab
+repmat(A, [1,1,N]);
+~~~
+
+- Setting font sizes in plots
+
+~~~ matlab
+set(0,'DefaultAxesFontSize',14)
+~~~
+
+### How to control the number of markers in figure?
+When the size of data is large, using markers in plot is a pain. MATLAB simply puts all the data points with markers, so the plot looks very ugly. I found that drawing three times for a data series looks stupid, but definitely works. Please see the following codes as an example:
+
+~~~ matlab
 num_data = 200;
 num_marker = 10;
 marker_space = num_data / num_marker;
@@ -104,7 +96,7 @@ ylabel('Name of y data');
 
 % save the figure as a 600-dpi PDF file
 save2pdf('figure_filename',fig1,600);
-```
+~~~
 
 To save the figure as a PDF file, I recommend <a title="" href="http://www.mathworks.com/matlabcentral/fileexchange/16179-save2pdf" rel="nofollow">`save2pdf`</a>. The result is:
 

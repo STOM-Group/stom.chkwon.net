@@ -76,6 +76,7 @@ url-pretty: "stom.chkwon.net"  # eg. "deanattali.com/beautiful-jekyll"
 
 gems:
     - jekyll-paginate
+    - jekyll-gist
 
 # Output options (more information on Jekyll's site)
 timezone: "America/Vancouver"

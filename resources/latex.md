@@ -21,7 +21,7 @@ subtitle:
 <h1>Template and Tutorial</h1>
 One simple template is provided:
 
-https://gist.github.com/chkwon/821ee403b67aa46ee166
+{% gist 821ee403b67aa46ee166 %}
 
 Dr. Kwon prepared <a href="https://github.com/chkwon/LaTeX-Paper-Template" target="_blank">a more complicated LaTeX template</a> that also serves as a tutorial. Download the file and learn how to use LaTeX.
 
@@ -60,6 +60,9 @@ There are several ways to create a final PDF file and include images. I just pre
 	<li><a title="" href="http://mirrors.ctan.org/info/impatient/book.pdf" rel="nofollow">TeX for the Impatient</a> -- Paul W. Abrahams, Kathryn A. Hargreaves, and Karl Berry</li>
 </ul>
 <div></div>
+
+
+<!--
 <h1>Links</h1>
 <ul>
 	<li><a title="" href="http://www.ctan.org/" rel="nofollow">CTAN</a> - the Comprehensive TeX Archive Network
@@ -75,7 +78,9 @@ There are several ways to create a final PDF file and include images. I just pre
 <div></div></li>
 	<li><a title="" href="http://www.fauskes.net/pgftikzexamples/" rel="nofollow">PGF and TikZ examples gallery</a></li>
 </ul>
-<div></div>
+<div></div> -->
+
+
 <h1>Useful Tools</h1>
 <ul>
 	<li><a title="" href="http://jabref.sourceforge.net/" rel="nofollow">JabRef</a>- Java GUI for managing BibTeX and other bibliographies</li>
@@ -97,14 +102,13 @@ There are several ways to create a final PDF file and include images. I just pre
 </li>
 	<li><a title="" href="http://www.imagemagick.org/" rel="nofollow">ImageMagick</a> - command-line based image manipulation tool; especially useful for converting image formats</li>
 </ul>
-<div id="sourceblock1">
-<div>
-<pre>mogrify -format jpg *.png
-convert filename.jpg filename.png</pre>
-</div>
-<div></div>
-</div>
-<div></div>
+
+~~~ bash
+mogrify -format jpg *.png
+convert filename.jpg filename.png
+~~~
+
+
 <h1>Topics</h1>
 <h2>Citation and Bibliography</h2>
 <ul>
@@ -137,12 +141,7 @@ If you receive error messages during conversion in Step 2, try to press the ente
 One missing functionality in LaTeX is a grammar checker, while Microsoft Word has the best grammar checker. To use MS Word's grammar checker, follow the above guideline for conversion. Then you can use MS Word's powerful grammar checker.
 
 </div>
-<h2>Merge</h2>
-<ul>
-	<li><a title="" href="http://faq.ktug.or.kr/mywiki/PDFMerge" rel="nofollow">LINK</a> {ko} - PDFMerge</li>
-	<li><a title="" href="http://www.ktug.or.kr/jsboard/read.php?table=contrib&amp;no=611" rel="nofollow">LINK</a> {ko} - <em>combine</em> package</li>
-</ul>
-<div></div>
+
 <h2>Beamer</h2>
 Beamer is to generate presentation slides.
 <div></div>

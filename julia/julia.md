@@ -17,15 +17,15 @@ You can enjoy many features of the Julia Language on the web at [http://juliabox
 
 First, install the `Clp` and `JuMP` packages.
 
-```julia
+~~~ julia
 Pkg.add("Clp")
 Pkg.add("JuMP")
-```
+~~~
 and press `Shift+Enter` or click ▶ to run your code. `Clp` provides an open source LP solver, and `JuMP` provides a nice modeling interface.
 
 Copy this code to your screen:
 
-```julia
+~~~ julia
 using JuMP
 m = Model()
 @defVar(m, 0<= x <=40)
@@ -41,7 +41,7 @@ println("Optimal Solutions:")
 println("x = ", getValue(x))
 println("y = ", getValue(y))
 println("z = ", getValue(z))
-```
+~~~
 
 and press `Shift+Enter` or click ▶ to run your code. The result will look like:
 <img src="images/juliabox.png" width="400">
@@ -96,7 +96,7 @@ Gurobi is a commercial optimization solver package for solving LP, MILP, QP, MIQ
 3. Install the Gurobi.jl package. In your Julia prompt, enter: `julia> Pkg.add("Gurobi")`
 Ready. Test the following codes
 
-```julia
+~~~ julia
 using JuMP, Gurobi
 m = Model(solver=GurobiSolver())
 @defVar(m, x <= 5)
@@ -108,7 +108,7 @@ m = Model(solver=GurobiSolver())
 status = solve(m)
 println("Optimal objective: ", getObjectiveValue(m))
 println("x = ", getValue(x), " y = ", getValue(y))
-```
+~~~
 
 # Using the CPLEX Optimizer
 
@@ -118,25 +118,25 @@ You can similarly install and connect CPLEX solvers via the [`CPLEX.jl`](https:/
 
 * Add the following line to your `~/.bash_profile` file: (change [YOUR USER NAME])
 
-```bash
+~~~ bash
 export LD_LIBRARY_PATH="/Users/[YOUR USER NAME]/Applications/IBM/ILOG/CPLEX_Studio126/cplex/bin/x86-64_osx/":$LD_LIBRARY_PATH
-```
+~~~
 
 * Reload your profile:
 
-```bash
+~~~ bash
 source ~/.bash_profile
-```
+~~~
 
 * Run julia and add the CPLEX package:
 
-```julia
+~~~ julia
 julia> Pkg.add("CPLEX")
-```
+~~~
 
 * Ready. Test the following code:
 
-```julia
+~~~ julia
 using JuMP, CPLEX
 m = Model(solver=CplexSolver())
 @defVar(m, x <= 5)
@@ -148,7 +148,7 @@ m = Model(solver=CplexSolver())
 status = solve(m)
 println("Optimal objective: ",getObjectiveValue(m))
 println("x = ", getValue(x), " y = ", getValue(y))
-```
+~~~
 
 # Teach Yourself Julia
 
