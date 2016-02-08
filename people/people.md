@@ -2,49 +2,56 @@
 layout: page
 title: People
 permalink: /people/
-subtitle: Introduces members of the STOM Lab.
+subtitle: Introduces members of the STOM group.
 ---
 
-<h2> Current Members</h2>
+* TOC
+{:toc}
 
+## Current Members
 
-
-<h3><a href="http://www.chkwon.net"><img src="images/kwon.jpg" width="150" height="200" /></a>Changhyun Kwon</h3>
+### Changhyun Kwon
+<img src="images/kwon.jpg" width="150" height="200" align="left" hspace="20" />
 <a href="http://www.chkwon.net" target="_blank">Changhyun Kwon</a> is an associate professor. His research interests include transportation systems, extreme events, infrastructure management, and service operations. He received his PhD and MS in Industrial Engineering from Penn State, and BS in Mechanical Engineering from KAIST.
 
-&nbsp;
-<h3></h3>
-&nbsp;
-<h3><img src="images/sun.jpg" width="150" height="200" />Longsheng Sun</h3>
+<br><br>
+
+### Longsheng Sun
+<img src="images/sun.jpg" width="150" height="200" align="left" hspace="20" />
 <a href="https://www.linkedin.com/profile/view?id=123566248&amp;authType=NAME_SEARCH&amp;authToken=5tv2&amp;locale=en_US&amp;trk=tyah&amp;trkInfo=clickedVertical%3Amynetwork%2CclickedEntityId%3A123566248%2CauthType%3ANAME_SEARCH%2Cidx%3A1-1-1%2CtarId%3A1440082038780%2Ctas%3Alongsheng" target="_blank">Longsheng Sun</a> is a Ph.D student at UB ISE. His current research is in hazardous materials network design problem. He received his BS in Control Science and Engineering from Huazhong University of Science and Technology (HUST) in 2011. His co-adviser is <a href="http://www.eng.buffalo.edu/~mkarwan/" target="_blank">Dr. Mark Karwan</a>. <a href="http://longshengsun.net" target="_blank">(web)</a>
 
-&nbsp;
-<h3><img src="images/ding.jpg" width="150" height="200" />Nan Ding</h3>
+<br><br>
+
+### Nan Ding
+<img src="images/ding.jpg" width="150" height="200" align="left" hspace="20" />
 Nan Ding is a current PhD student in the ISE department at UB. Her current research interest is in Electric Vehicle (EV) related optimization problems including EV routing and location design of EV refueling facilities. She received her BS in Electrical Engineering from Sichuan University in China, and MS in Electrical Engineering from UB. Her co-adviser is <a title="Rajan Batta" href="http://www.acsu.buffalo.edu/~batta/" target="_blank">Dr. Rajan Batta</a>.
 
-&nbsp;
-<h3><img src="images/zhang.jpg" width="150" height="200" />Anpeng Zhang</h3>
+<br>
+
+### Anpeng Zhang
+<img src="images/zhang.jpg" width="150" height="200" align="left" hspace="20" />
 <a href="https://www.linkedin.com/profile/view?id=209488765&amp;authType=NAME_SEARCH&amp;authToken=EAKU&amp;locale=en_US&amp;srchid=58138691440082063899&amp;srchindex=1&amp;srchtotal=1&amp;trk=vsrp_people_res_name&amp;trkInfo=VSRPsearchId%3A58138691440082063899%2CVSRPtargetId%3A209488765%2CVSRPcmpt%3Aprimary%2CVSRPnm%3Atrue%2CauthType%3ANAME_SEARCH" target="_blank">Anpeng Zhang</a> is a PhD student at UB ISE. His focus area is electric vehicles. He received his BS in Mathematics and Applied Mathematics from Fudan University in 2013. His co-advisor is <a href="http://www.acsu.buffalo.edu/~jeeeunka/" target="_blank">Dr. Jee Eun Kang</a>.
 
-&nbsp;
+<br><br><br>
 
-&nbsp;
-<h3><img src="images/takalloo.jpg" width="150" height="200" />Mahdi Takalloo</h3>
+
+### Mahdi Takalloo
+<img src="images/takalloo.jpg" width="150" height="200" align="left" hspace="20" />
 Mahdi Takalloo is a PhD student at USF IMSE. He received his BS in Industrial Engineering and MS in Systems Engineering, both from Sharif University of Technology.
 
 
-&nbsp;
+<br><br><br><br>
 
-&nbsp;
-
-<h3><img src="images/pal.jpg" width="150" height="200" />Aritra Pal</h3>
+### Aritra Pal
+<img src="images/pal.jpg" width="150" height="200" align="left" hspace="20" />
 Aritra Pal is a current PhD student in the IMSE department at USF. His research interest lies in Convex, Discrete and Combinatorial Optimization problems with applications in Transportation, Finance and Machine Learning. His current research focuses on using tools from Operations Research to make (Free-Floating) Bike Sharing more effective and more efficient. He received his BE in Electrical Engineering from IIEST, Shibpur in India. His co-adviser is <a href="http://cee.eng.usf.edu/faculty/YuZhang" target="_blank">Dr. Yu Zhang</a>.
 
 
 
 
-<h2>Past Members</h2>
-<h3>University at Buffalo</h3>
+## Past Members
+
+### University at Buffalo
 <ul>
 	<li><a href="https://www.linkedin.com/pub/masoumeh-taslimi/92/b90/b33" target="_blank">Masoumeh Taslimi</a>, Ph.D., 2015,</li>
 	<li><a href="https://www.linkedin.com/profile/view?id=130869955&amp;authType=NAME_SEARCH&amp;authToken=pl70&amp;locale=en_US&amp;trk=tyah&amp;trkInfo=clickedVertical%3Amynetwork%2CclickedEntityId%3A130869955%2CauthType%3ANAME_SEARCH%2Cidx%3A1-1-1%2CtarId%3A1440081851784%2Ctas%3Atolou%20esfan" target="_blank">Tolou Esfandeh</a>, Ph.D., 2015, Regulating Hazardous Materials Transportation by Dual-Toll Pricing and Time-Dependent Network Design Policies</li>
