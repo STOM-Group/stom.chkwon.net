@@ -11,40 +11,70 @@ There are some options.
 
 Read [this WikiBooks page](https://en.wikibooks.org/wiki/Introducing_Julia/Plotting) for an introduction.
 
-You may experience some difficulties in installing the above libraries, especially if you are using Windows.
+If you need a simple tool, select Gadfly.jl; if you need a powerful tool, select PyPlot.jl.
 
-I haven't tried, but there is a web-service [Plotly for Julia](https://plot.ly/julia/), which looks easy to use. ([You have to pay for 10+ private files.](https://plot.ly/product/plans/))
+## PyPlot
+
+### Installing PyPlot
+
+To use PyPlot, you need Python and matplotlib. The Anaconda Python is an easy-to-install distribution of Python and matplotlib (and many other python packages).
+
+1. Download and install [the Anaconda Python 2.7](https://www.continuum.io/downloads).
+2. Open a new terminal window and run Julia. Install PyPlot and test it:
+
+~~~ python
+Pkg.add("PyPlot")
+
+using PyPlot
+x = linspace(0,2*pi,1000); y = sin(3*x + 4*cos(2*x));
+plot(x, y, color="red", linewidth=2.0, linestyle="--")
+title("A sinusoidally modulated sinusoid")
+~~~
+
+In the first time of using PyPlot, it will take some time to precompile.
+
+### PyPlot Examples
+
+- [Various Julia plotting examples using PyPlot](https://gist.github.com/gizmaa/7214002)
 
 
+## Gadfly
 
+### Installing Gadfly
 
-# Gadfly
+Install
 
-To plot graphs, we use the Gadfly.jl package. Install
-
-~~~ julia
+~~~ python
 Pkg.add("Gadfly")
 ~~~
 
 Test it:
 
-~~~ julia
+~~~ python
 using Gadfly
 plot(x=collect(1:100), y=sort(rand(100)), Guide.XLabel("Index"), Guide.YLabel("Step"))
 ~~~
 
 It will open your web browser and output an SVG image.
 
-Read the [Gadfly manual](http://gadflyjl.org/).
+To save a plot as a PNG file:
+
+~~~ python
+using Gadfly
+myplot = plot(x=collect(1:100), y=sort(rand(100)), Guide.XLabel("Index"), Guide.YLabel("Step"))
+draw( PNG("myplot.png", 6inch, 3inch), myplot )
+~~~
+
+### Additional installation for saving as PDF
 
 Sometimes, we want to save the plot as a PDF file. Install `Cairo`.
 
-~~~ julia
+~~~ python
 Pkg.add("Cairo")
 ~~~
 
 
-~~~ julia
+~~~ python
 using Gadfly
 myplot = plot(x=collect(1:100), y=sort(rand(100)), Guide.XLabel("Index"), Guide.YLabel("Step"))
 draw( PDF("myplot.pdf", 6inch, 3inch), myplot )
@@ -52,8 +82,12 @@ draw( PDF("myplot.pdf", 6inch, 3inch), myplot )
 
 It will create `myplot.pdf` in the directory from which you ran julia.
 
+### Gadfly Manual
+
+Read the [Gadfly manual](http://gadflyjl.org/).
 
 
+<!--
 If Cairo does not install properly, try the following:
 **(NOTE: This may not work for your system. I tested this with my Mac OS X machine, but it may not work for you.)**
 
@@ -73,4 +107,4 @@ Homebrew.add("pango")
 Pkg.add("Cairo")
 ~~~
 
-Then, close your current julia and reopen julia.
+Then, close your current julia and reopen julia. -->

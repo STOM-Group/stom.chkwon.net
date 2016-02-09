@@ -2,8 +2,12 @@
 layout: page
 title: Julia
 permalink: /julia/
-subtitle:
+subtitle: Julia Installation Guide for Operations Research
 ---
+
+* TOC
+{:toc}
+
 
 This document was prepared to help anyone, especially those without great computing skills, install and start using the [Julia Language](http://julialang.org) for solving optimization problems. The syntax of Julia is very similar to MATLAB.
 

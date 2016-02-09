@@ -56,7 +56,7 @@ Aritra Pal is a current PhD student in the IMSE department at USF. His research 
 
 ### University at Buffalo
 <ul>
-	<li><a href="https://www.linkedin.com/pub/masoumeh-taslimi/92/b90/b33" target="_blank">Masoumeh Taslimi</a>, Ph.D., 2015,</li>
+	<li><a href="https://www.linkedin.com/pub/masoumeh-taslimi/92/b90/b33" target="_blank">Masoumeh Taslimi</a>, Ph.D., 2015, On the Analysis of Two Problems related to Risk Management in Urban Transportation Networks</li>
 	<li><a href="https://www.linkedin.com/profile/view?id=130869955&amp;authType=NAME_SEARCH&amp;authToken=pl70&amp;locale=en_US&amp;trk=tyah&amp;trkInfo=clickedVertical%3Amynetwork%2CclickedEntityId%3A130869955%2CauthType%3ANAME_SEARCH%2Cidx%3A1-1-1%2CtarId%3A1440081851784%2Ctas%3Atolou%20esfan" target="_blank">Tolou Esfandeh</a>, Ph.D., 2015, Regulating Hazardous Materials Transportation by Dual-Toll Pricing and Time-Dependent Network Design Policies</li>
 	<li><a href="https://www.linkedin.com/pub/iakovos-toumazis/49/327/917" target="_blank">Iakovos Toumazis</a>, Ph.D., 2015, Dynamic Chemotherapy Scheduling for Metastatic Colorectal Cancer Patients: Assessments and Improvements (<a href="http://toumiak.com" target="_blank">web</a>)</li>
 	<li><a href="https://www.linkedin.com/profile/view?id=61312329" target="_blank">Md. Tanveer Ahmed</a>, Ph.D., 2013, Revenue Management for Online Advertisement Services</li>
