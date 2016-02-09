@@ -8,9 +8,10 @@ subtitle: Introduces members of the STOM group.
 * TOC
 {:toc}
 
-Current and Past members of the STOM group are:
 
-## Current Members
+## Current Members
+
+Current members of the STOM group
 
 ### Changhyun Kwon
 <img src="images/kwon.jpg" width="150" height="200" align="left" hspace="20" />
