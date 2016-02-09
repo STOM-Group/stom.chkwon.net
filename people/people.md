@@ -8,7 +8,7 @@ subtitle: Introduces members of the STOM group.
 * TOC
 {:toc}
 
-
+Current and Past members of the STOM group are:
 
 ## Current Members
 
