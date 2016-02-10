@@ -116,9 +116,9 @@ println("x = ", getValue(x), " y = ", getValue(y))
 
 # Using the CPLEX Optimizer
 
-You can similarly install and connect CPLEX solvers via the [`CPLEX.jl`](https://github.com/joehuchette/CPLEX.jl) package, which can require some troubleshooting. Follow [this instruction to install CPLEX](http://stom.chkwon.net/resources/computer-help/cplex/). I recommend Gurobi for most people.
+You can similarly install and connect CPLEX solvers via the [`CPLEX.jl`](https://github.com/joehuchette/CPLEX.jl) package, which can require some troubleshooting. Follow [this instruction](http://stom.chkwon.net/cplex/) to install CPLEX. I recommend Gurobi for most people.
 
-**Mac Users**, to add the CPLEX package to Julia, follow:
+**Mac Users**: to add the CPLEX package to Julia, follow:
 
 * Add the following line to your `~/.bash_profile` file: (change [YOUR USER NAME])
 
