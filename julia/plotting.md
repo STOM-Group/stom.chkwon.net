@@ -1,8 +1,11 @@
 ---
 layout: default
+title: Plotting in Julia
 ---
 
-## Plotting in Julia
+* TOC
+{:toc}
+
 
 There are some options.
 
@@ -11,7 +14,7 @@ There are some options.
 
 Read [this WikiBooks page](https://en.wikibooks.org/wiki/Introducing_Julia/Plotting) for an introduction.
 
-If you need a simple tool, select Gadfly.jl; if you need a powerful tool, select PyPlot.jl.
+If you need a simple tool, select Gadfly.jl. If you need a powerful tool, select PyPlot.jl. The power of PyPlot comes in at the cost of installing Python. 
 
 ## PyPlot
 
@@ -29,6 +32,7 @@ using PyPlot
 x = linspace(0,2*pi,1000); y = sin(3*x + 4*cos(2*x));
 plot(x, y, color="red", linewidth=2.0, linestyle="--")
 title("A sinusoidally modulated sinusoid")
+savefig("myplot.pdf")
 ~~~
 
 In the first time of using PyPlot, it will take some time to precompile.
