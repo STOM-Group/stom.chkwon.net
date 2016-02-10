@@ -21,7 +21,7 @@ You can enjoy many features of the Julia Language on the web at [http://juliabox
 
 First, install the `Clp` and `JuMP` packages.
 
-~~~ julia
+~~~ python
 Pkg.add("Clp")
 Pkg.add("JuMP")
 ~~~
@@ -29,7 +29,7 @@ and press `Shift+Enter` or click ▶ to run your code. `Clp` provides an open so
 
 Copy this code to your screen:
 
-~~~ julia
+~~~ python
 using JuMP
 m = Model()
 @defVar(m, 0<= x <=40)
@@ -100,7 +100,7 @@ Gurobi is a commercial optimization solver package for solving LP, MILP, QP, MIQ
 3. Install the Gurobi.jl package. In your Julia prompt, enter: `julia> Pkg.add("Gurobi")`
 Ready. Test the following codes
 
-~~~ julia
+~~~ python
 using JuMP, Gurobi
 m = Model(solver=GurobiSolver())
 @defVar(m, x <= 5)
@@ -134,13 +134,13 @@ source ~/.bash_profile
 
 * Run julia and add the CPLEX package:
 
-~~~ julia
+~~~ python
 julia> Pkg.add("CPLEX")
 ~~~
 
 * Ready. Test the following code:
 
-~~~ julia
+~~~ python
 using JuMP, CPLEX
 m = Model(solver=CplexSolver())
 @defVar(m, x <= 5)
