@@ -26,19 +26,28 @@ To use PyPlot, you need Python and matplotlib. The Anaconda Python is an easy-to
 1. Download and install [the Anaconda Python 2.7](https://www.continuum.io/downloads).
 2. Open a new terminal window and run Julia. Install PyPlot and test it:
 
-~~~ python
+~~~ julia
 Pkg.add("PyPlot")
 
 using PyPlot
 x = linspace(0,2*pi,1000); y = sin(3*x + 4*cos(2*x));
 plot(x, y, color="red", linewidth=2.0, linestyle="--")
-title("A sinusoidally modulated sinusoid")
+xlabel(L"value of $x$")
+ylabel(L"\sin(3x + 4\cos(2x))")
+title("Test plotting")
 savefig("myplot.pdf")
 ~~~
 
 In the first time of using PyPlot, it will take some time to precompile.
 
 ### PyPlot Examples
+
+Since PyPlot.jl calls functions from matplotlib, the following documents are helpful.
+
+- [Matplotlib Beginner's Guide](http://matplotlib.org/users/beginner.html)
+- [Matplotlib Examples](http://matplotlib.org/examples/index.html)
+
+Some translation works from Python to Julia are necessary. Examples are provided in the following link:
 
 - [Various Julia plotting examples using PyPlot](https://gist.github.com/gizmaa/7214002)
 

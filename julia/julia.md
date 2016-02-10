@@ -2,7 +2,7 @@
 layout: page
 title: Julia
 permalink: /julia/
-subtitle: Julia Installation Guide for Operations Research
+subtitle: Julia Guide for Operations Research
 ---
 
 * TOC
@@ -21,7 +21,7 @@ You can enjoy many features of the Julia Language on the web at [http://juliabox
 
 First, install the `Clp` and `JuMP` packages.
 
-~~~ python
+~~~
 Pkg.add("Clp")
 Pkg.add("JuMP")
 ~~~
@@ -29,7 +29,7 @@ and press `Shift+Enter` or click ▶ to run your code. `Clp` provides an open so
 
 Copy this code to your screen:
 
-~~~ python
+~~~ Julia
 using JuMP
 m = Model()
 @defVar(m, 0<= x <=40)
@@ -68,7 +68,7 @@ Now, install Julia. These two documents provide steps with screenshots to instal
 - [Install Guide for **Windows**](julia_install_windows)
 - [Install Guide for **Mac OS X**](julia_install_mac)
 
-Read also the JuliaOpt page. When you are ready, there are basically two methods to run your Julia script:
+When you are ready, there are basically two methods to run your Julia script:
 
 - In your Command Prompt or Terminal, enter `C:> julia your-script.jl`
 - In your Julia prompt, enter `julia> include("your-script.jl")`
