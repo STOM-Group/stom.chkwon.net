@@ -1,6 +1,7 @@
 ---
-layout: default
+layout: page
 title: Plotting in Julia
+permalink: /julia/plotting/
 ---
 
 * TOC
@@ -14,7 +15,7 @@ There are some options.
 
 Read [this WikiBooks page](https://en.wikibooks.org/wiki/Introducing_Julia/Plotting) for an introduction.
 
-If you need a simple tool, select Gadfly.jl. If you need a powerful tool, select PyPlot.jl. The power of PyPlot comes in at the cost of installing Python. 
+If you need a simple tool, select Gadfly.jl. If you need a powerful tool, select PyPlot.jl. The power of PyPlot comes in at the cost of installing Python.
 
 ## PyPlot
 
