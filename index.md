@@ -2,7 +2,7 @@
 layout: page
 title: STOM Group
 permalink: /
-subtitle:
+subtitle: Research Group on Service and Transportation Operations Management
 ---
 &nbsp;
 
