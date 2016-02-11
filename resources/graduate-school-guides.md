@@ -2,7 +2,7 @@
 layout: page
 title: Graduate School Guides
 permalink: /resources/graduate-school-guides/
-subtitle:
+subtitle: A collection of links
 ---
 
 Are you a Ph.D. student? Don't have time to read all these? Read <a href="http://cacm.acm.org/blogs/blog-cacm/157012-phds-from-the-facultys-perspective/fulltext" target="_blank">this short article</a>.

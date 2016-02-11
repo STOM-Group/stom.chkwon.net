@@ -24,18 +24,18 @@ Step 3. Open “Terminal.app”. (If you don’t know how to open it, see [this 
 
 Step 4. In you terminal, enter the following commands:
 
-```bash
+~~~ bash
 touch ~/.bash_profile
 open –e ~/.bash_profile
-```
+~~~
 
 <img src="../images/mac/4-1.png">
 
 It will open a TextEdit window, enter the following line somewhere:
 
-```bash
+~~~ bash
 export PATH=/Applications/Julia-0.2.1.app/Contents/Resources/julia/bin/:$PATH
-```
+~~~
 
 Change “0.2.1” to reflect your Julia version.
 
@@ -43,9 +43,9 @@ Change “0.2.1” to reflect your Julia version.
 
 Save the file and close the TextEdit window. In your terminal, enter the following command:
 
-```bash
+~~~ bash
 source ~/.bash_profile
-```
+~~~
 
 
 Step 5. In your terminal, enter “julia”
@@ -55,16 +55,17 @@ Step 5. In your terminal, enter “julia”
 
 Step 6. On your Julia prompt, type
 
-```julia
+~~~ julia
 Pkg.add("JuMP")
 Pkg.add("Gurobi")
-```
+~~~
+
 <img src="../images/mac/6.png">
 
 
 Step 7. Open TextEdit (or any other text editor, for example [Atom](http://atom.io)) and type the following, and save the file as “script.jl” in some folder of your choice.
 
-```julia
+~~~ julia
 using JuMP, Gurobi
 
 m = Model(solver=GurobiSolver())
@@ -82,7 +83,7 @@ status = solve(m)
 println("Objective value: ", getObjectiveValue(m))
 println("x = ", getValue(x))
 println("y = ", getValue(y))
-```
+~~~
 
 Step 8. Follow [this instruction](http://osxdaily.com/2011/12/07/open-a-selected-finder-folder-in-a-new-terminal-window/) and open a terminal window at the folder that contains your “script.jl”.
 

@@ -12,4 +12,4 @@ The current research areas are risk management in hazardous materials (hazmat) t
 
 [We are looking for new students to join the group!](position)
 
-&nbsp;
+If you are first in a graduate school, please read [this useful guide](/resources/beginning-students).
