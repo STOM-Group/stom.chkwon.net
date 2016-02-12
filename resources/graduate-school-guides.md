@@ -5,7 +5,7 @@ permalink: /resources/graduate-school-guides/
 subtitle: A collection of links
 ---
 
-Are you a Ph.D. student? Don't have time to read all these? Read [this short article]((http://cacm.acm.org/blogs/blog-cacm/157012-phds-from-the-facultys-perspective/fulltext"). Read it on the first Monday every month.
+Are you a Ph.D. student? Don't have time to read all these? Read [this short article](http://cacm.acm.org/blogs/blog-cacm/157012-phds-from-the-facultys-perspective/fulltext). Read it on the first Monday every month.
 
 * TOC
 {:toc}
