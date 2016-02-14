@@ -51,6 +51,37 @@ Some translation works from Python to Julia are necessary. Examples are provided
 
 - [Various Julia plotting examples using PyPlot](https://gist.github.com/gizmaa/7214002)
 
+### Tips
+
+
+#### Avoiding Type-3 fonts
+
+Some journal submission systems don't like PDF files saved by matplotlib. It is usually the system cannot handle some newer font styles. There are two ways:
+
+**Method 1.** Using options of `matplotlib`
+
+We can specifically tell matplotlib to avoid Type-3 fonts as explained in [this link](http://nerdjusttyped.blogspot.com/2010/07/type-1-fonts-and-matplotlib-figures.html). Create a file called `matplotlibrc` (without any extension in the filename) and place it in the same directory as the Julia script. Put the following commands in the `matplotlibrc` file:
+
+~~~
+ps.useafm           : True
+pdf.use14corefonts  : True
+text.usetex         : True
+~~~
+
+**Method 2.** Using the `pgf` package of LaTeX
+
+Instead of `savefig("myplot.pdf")`, one can `savefig("myplot.pgf")`, which will save the figure as a set of LaTeX commands that uses the `pgf` package. Then use the following command to include the figure in the main LaTeX document:
+
+~~~ latex
+\begin{figure} \centering
+\resizebox{0.7\textwidth}{!}{\input{myplot.pgf}}
+\caption{Figure caption goes here..}
+\label{fig:myplot}
+\end{figure}
+~~~
+
+Don't forget to include `\usepackage{pgf}` in the preamble.
+
 
 ## Gadfly
 
