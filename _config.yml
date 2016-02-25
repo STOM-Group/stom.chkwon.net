@@ -44,6 +44,7 @@ enable_mathjax: true
 author:
   name: Changhyun Kwon
   email: "youremail@domain.com"
+  url: "http://www.chkwon.net"
   # facebook: yourname  # eg. daattali
   # github: yourname    # eg. daattali
   # twitter: yourname   # eg. daattali
