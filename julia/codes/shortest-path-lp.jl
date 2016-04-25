@@ -66,7 +66,7 @@ no_node = max(maximum(start_node), maximum(end_node))
 no_arc = length(start_node)
 
 # Creating a graph
-links = Array((Int, Int), no_arc)
+links = Array{Tuple{Int, Int}}(no_arc)
 for i=1:no_arc
    	links[i] = (start_node[i], end_node[i])
 end
