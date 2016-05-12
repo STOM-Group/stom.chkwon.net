@@ -19,12 +19,6 @@ Current members of the STOM group
 
 <br><br>
 
-### Longsheng Sun
-<img src="images/sun.jpg" width="150" height="200" align="left" hspace="20" />
-<a href="https://www.linkedin.com/profile/view?id=123566248&amp;authType=NAME_SEARCH&amp;authToken=5tv2&amp;locale=en_US&amp;trk=tyah&amp;trkInfo=clickedVertical%3Amynetwork%2CclickedEntityId%3A123566248%2CauthType%3ANAME_SEARCH%2Cidx%3A1-1-1%2CtarId%3A1440082038780%2Ctas%3Alongsheng" target="_blank">Longsheng Sun</a> is a Ph.D student at UB ISE. His current research is in hazardous materials network design problem. He received his BS in Control Science and Engineering from Huazhong University of Science and Technology (HUST) in 2011. His co-adviser is <a href="http://www.eng.buffalo.edu/~mkarwan/" target="_blank">Dr. Mark Karwan</a>. <a href="http://longshengsun.net" target="_blank">(web)</a>
-
-<br><br>
-
 ### Nan Ding
 <img src="images/ding.jpg" width="150" height="200" align="left" hspace="20" />
 Nan Ding is a current PhD student in the ISE department at UB. Her current research interest is in Electric Vehicle (EV) related optimization problems including EV routing and location design of EV refueling facilities. She received her BS in Electrical Engineering from Sichuan University in China, and MS in Electrical Engineering from UB. Her co-adviser is <a title="Rajan Batta" href="http://www.acsu.buffalo.edu/~batta/" target="_blank">Dr. Rajan Batta</a>.
@@ -56,6 +50,7 @@ Aritra Pal is a current PhD student in the IMSE department at USF. His research 
 
 ### University at Buffalo
 <ul>
+	<li><a href="https://longshengsun.net" target="_blank">Longsheng Sun</a>, Ph.D., 2016, Designing Regulation Policies for Hazardous Materials Transportation</li>
 	<li><a href="https://www.linkedin.com/pub/masoumeh-taslimi/92/b90/b33" target="_blank">Masoumeh Taslimi</a>, Ph.D., 2015, On the Analysis of Two Problems related to Risk Management in Urban Transportation Networks</li>
 	<li><a href="https://www.linkedin.com/in/tolou-esfandeh-phd-b179b237" target="_blank">Tolou Esfandeh</a>, Ph.D., 2015, Regulating Hazardous Materials Transportation by Dual-Toll Pricing and Time-Dependent Network Design Policies</li>
 	<li><a href="https://www.linkedin.com/pub/iakovos-toumazis/49/327/917" target="_blank">Iakovos Toumazis</a>, Ph.D., 2015, Dynamic Chemotherapy Scheduling for Metastatic Colorectal Cancer Patients: Assessments and Improvements (<a href="http://toumiak.com" target="_blank">web</a>)</li>
