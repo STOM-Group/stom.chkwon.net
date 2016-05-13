@@ -55,8 +55,13 @@ Assuming that data are uncertain within given sets, this paper considers a worst
 - [git documentation](http://www.git-scm.com/doc)
 
 
-## Resolving Conflicts
-1. When you create
+## Resolving Conflicts (for GitHub)
+When you sync your changes to the main repository on the web, it may create conflicts. Saying, Dr. Kwon has made some changes, while you are making changes, and there are conflicts. In such cases, do the following:
+
+1. In GitHub Desktop, select your working branch and press the button for `Update from master`.  
+2. In your local folder, open the file with conflicts with a text editor.
+3. here will be something like  `<<<<<<< HEAD`. Edit those parts as you like to be.
+4. Return to GitHub Desktop, and commit the changes again, and sync and/or create a pull request.
 
 
 ## Resolving Conflicts (for Bitbucket)
