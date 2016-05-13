@@ -7,23 +7,24 @@ subtitle:
 
 This document is not for everyone. This is prepared for those who are not familiar with git, but need to use git to work with Dr. Kwon. Of course there will be some learning curve, but you will like it.
 
-Dr. Kwon uses <a href="http://bitbucket.org" target="_blank">Bitbucket</a> for <em>private</em> things such as writing research papers, and <a href="http://github.com" target="_blank">GitHub</a> for <em>public</em> things such as developing open-source software.
-
-GitHub is easier to use than Bitbucket. If you just need to play by yourself, go ahead with GitHub. Academic users can request a free plan at <a href="https://education.github.com/discount_requests/new" target="_blank">GitHub Education</a>.
+STOM Group uses [GitHub](https://github.com) for writing research papers together and developing software. Visit [the STOM-Group account page](https://github.com/STOM-Group).
 
 ## What is Git?
-Git is a version control system. Watch <a href="http://git-scm.com/videos" target="_blank">these videos</a>.
+Git is a version control system. Watch [these videos](http://git-scm.com/videos).
 
-## Installation Guide
-1. Please make an account using your `.edu` email address at <a href="https://bitbucket.org" target="_blank">BitBucket</a>.
-(Using .edu email address, academic users can create unlimited private repositories…)
-2. Install <a href="https://confluence.atlassian.com/display/BITBUCKET/Set+up+Git" target="_blank">git</a>
-3. Install a git client, <a href="http://www.sourcetreeapp.com" target="_blank">SourceTree</a>
-4. Contact Dr. Kwon to schedule an in-person meeting and learn how to use it.
+## Instructions to STOM Group members
+1. Create an account using your `.edu` email address and request an education pack at [GitHub Education](https://education.github.com/).
+2. Install [GitHub Desktop](https://desktop.github.com).
+3. Email Dr. Kwon your GitHub account name. He'll add you to the GitHub group.
 
-<!-- 4. Install a `diff`/`merge` program:
-	- Windows: <a href="http://www.sourcegear.com/diffmerge/" target="_blank">DiffMerge</a>
-	- Mac OS X: <a href="http://www.sourcegear.com/diffmerge/" target="_blank">DiffMerge</a> or FileMerge (part of <a href="https://developer.apple.com/xcode/" target="_blank">Xcode</a>) -->
+You're now ready. Learn how to do the following tasks.
+
+1. [Clone](https://help.github.com/desktop/guides/contributing/cloning-a-repository-from-github-desktop/) this [SandBox](https://github.com/STOM-Group/SandBox) repository to your local desktop.
+2. [Create a new branch](https://help.github.com/desktop/guides/contributing/creating-a-branch-for-your-work/).
+3. Make some changes in your local desktop.
+4. [Commit the changes and sync](https://help.github.com/desktop/guides/contributing/committing-and-reviewing-changes-to-your-project/)
+5. [Create a pull request to merge](https://help.github.com/desktop/guides/contributing/sending-a-pull-request/).
+
 
 ## Readings and Tutorials
 - <a href="https://rogerdudler.github.io/git-guide/index.html" target="_blank">git - the simple guide</a>
