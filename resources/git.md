@@ -27,10 +27,10 @@ You're now ready. Learn how to do the following tasks.
 
 
 ## Readings and Tutorials
-- <a href="https://rogerdudler.github.io/git-guide/index.html" target="_blank">git - the simple guide</a>
-- <a href="https://www.atlassian.com/git/?atl_medium=AC&amp;atl_source=STPBB&amp;atl_camp=default_sub1" target="_blank">Getting Git Right</a>
-- <a href="https://confluence.atlassian.com/display/BITBUCKET/Bitbucket+101;jsessionid=64E39ABE2046636E1312BFE274C3A56F.node1" target="_blank">Bitbucket 101</a>
-- <a href="http://www.git-scm.com/doc" target="_blank">git documentation</a>
+- [git - the simple guide](https://rogerdudler.github.io/git-guide/index.html)
+- [Getting Git Right](https://www.atlassian.com/git/?atl_medium=AC&amp;atl_source=STPBB&amp;atl_camp=default_sub1)
+- [Bitbucket 101](https://confluence.atlassian.com/display/BITBUCKET/Bitbucket+101;jsessionid=64E39ABE2046636E1312BFE274C3A56F.node1)
+- [git documentation](http://www.git-scm.com/doc)
 
 
 ## Resolving Conflicts
