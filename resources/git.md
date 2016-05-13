@@ -26,6 +26,28 @@ You're now ready. Learn how to do the following tasks.
 5. [Create a pull request to merge](https://help.github.com/desktop/guides/contributing/sending-a-pull-request/).
 
 
+## Some Rules
+
+* For LaTeX documents, try to use a single line for each sentence.
+
+*DO:*
+```latex
+Assuming that data are uncertain within given sets, this paper considers a worst-case CVaR (WCVaR) minimization problem for hazmat routing.
+While CVaR has the potential to be an important risk measure and decision-making tool in the context of hazmat transportation of a low-probability-high-consequence nature, there is a critical issue that must be addressed in any hazmat routing method---\emph{data uncertainty}.
+While the consequences of hazmat accidents usually cause serious problems, hazmat-accident data are usually insufficient for constructing probability distributions.
+The accident probability of hazmat trucks in each road segment is difficult to estimate and consequences from such accidents are dependent on various and uncertain factors such as the severity of the accident, local population density and weather conditions at the time of the accident, the type of hazmat shipment, and the quantity of hazmat released \citep{Kwon2013rsp}.
+These factors make any hazmat routing method based on the stochasticity of data less meaningful.
+```
+*DO NOT:*
+```latex
+Assuming that data are uncertain within given sets, this paper considers a worst-case CVaR (WCVaR) minimization problem for hazmat routing. While CVaR has the potential to be an important risk measure and decision-making tool in the context of hazmat transportation of a low-probability-high-consequence nature, there is a critical issue that must be addressed in any hazmat routing method---\emph{data uncertainty}. While the consequences of hazmat accidents usually cause serious problems, hazmat-accident data are usually insufficient for constructing probability distributions. The accident probability of hazmat trucks in each road segment is difficult to estimate and consequences from such accidents are dependent on various and uncertain factors such as the severity of the accident, local population density and weather conditions at the time of the accident, the type of hazmat shipment, and the quantity of hazmat released \citep{Kwon2013rsp}. These factors make any hazmat routing method based on the stochasticity of data less meaningful.
+```
+
+* When you are making a very minor changes, commit and sync with the `master` branch. If you are making some middle to big changes or new additions, always create a new branch and work there, without touching the `master` branch.
+
+* [More information on git + LaTeX workflow](http://stackoverflow.com/questions/6188780/git-latex-workflow).
+
+
 ## Readings and Tutorials
 - [git - the simple guide](https://rogerdudler.github.io/git-guide/index.html)
 - [Getting Git Right](https://www.atlassian.com/git/?atl_medium=AC&amp;atl_source=STPBB&amp;atl_camp=default_sub1)
@@ -34,6 +56,10 @@ You're now ready. Learn how to do the following tasks.
 
 
 ## Resolving Conflicts
+1. When you create
+
+
+## Resolving Conflicts (for Bitbucket)
 1. Commit your changes. Push will be rejected if your commit has some conflicts with the remote files.
 2. <em>Pull</em> the remote to your local. It will identify conflicts.
 3. Resolve the conflicts <em>manually</em>. Open the conflicting file from your local folder. There will be something like  `<<<<<<< HEAD`. Edit those parts as you like. (Do NOT use automatic merge tools such as 'Resolve using Mine' and Resolve using Theirs'. I think it is too dangerous. Do it manually.)
