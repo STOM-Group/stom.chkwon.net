@@ -43,6 +43,9 @@ Mahdi Takalloo is a PhD student at USF IMSE. He received his BS in Industrial En
 <img src="images/pal.jpg" width="150" height="200" align="left" hspace="20" />
 Aritra Pal is a current PhD student in the IMSE department at USF. His research interest lies in Convex, Discrete and Combinatorial Optimization problems with applications in Transportation, Finance and Machine Learning. His current research focuses on using tools from Operations Research to make (Free-Floating) Bike Sharing more effective and more efficient. He received his BE in Electrical Engineering from IIEST, Shibpur in India. His co-adviser is <a href="http://cee.eng.usf.edu/faculty/YuZhang" target="_blank">Dr. Yu Zhang</a>.
 
+### Liu Su
+<img src="images/su.jpg" width="150" height="200" align="left" hspace="20" />
+Liu Su is a current PhD student in the IMSE department at USF. ...
 
 
 
