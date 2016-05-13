@@ -30,18 +30,21 @@ You're now ready. Learn how to do the following tasks.
 
 * For LaTeX documents, try to use a single line for each sentence.
 
-*DO:*
-```latex
+**DO:**
+
+~~~ latex
 Assuming that data are uncertain within given sets, this paper considers a worst-case CVaR (WCVaR) minimization problem for hazmat routing.
 While CVaR has the potential to be an important risk measure and decision-making tool in the context of hazmat transportation of a low-probability-high-consequence nature, there is a critical issue that must be addressed in any hazmat routing method---\emph{data uncertainty}.
 While the consequences of hazmat accidents usually cause serious problems, hazmat-accident data are usually insufficient for constructing probability distributions.
 The accident probability of hazmat trucks in each road segment is difficult to estimate and consequences from such accidents are dependent on various and uncertain factors such as the severity of the accident, local population density and weather conditions at the time of the accident, the type of hazmat shipment, and the quantity of hazmat released \citep{Kwon2013rsp}.
 These factors make any hazmat routing method based on the stochasticity of data less meaningful.
-```
-*DO NOT:*
-```latex
+~~~
+
+**DO NOT:**
+
+~~~latex
 Assuming that data are uncertain within given sets, this paper considers a worst-case CVaR (WCVaR) minimization problem for hazmat routing. While CVaR has the potential to be an important risk measure and decision-making tool in the context of hazmat transportation of a low-probability-high-consequence nature, there is a critical issue that must be addressed in any hazmat routing method---\emph{data uncertainty}. While the consequences of hazmat accidents usually cause serious problems, hazmat-accident data are usually insufficient for constructing probability distributions. The accident probability of hazmat trucks in each road segment is difficult to estimate and consequences from such accidents are dependent on various and uncertain factors such as the severity of the accident, local population density and weather conditions at the time of the accident, the type of hazmat shipment, and the quantity of hazmat released \citep{Kwon2013rsp}. These factors make any hazmat routing method based on the stochasticity of data less meaningful.
-```
+~~~
 
 * When you are making a very minor changes, commit and sync with the `master` branch. If you are making some middle to big changes or new additions, always create a new branch and work there, without touching the `master` branch.
 
