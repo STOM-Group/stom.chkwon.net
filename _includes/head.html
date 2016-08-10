@@ -106,5 +106,28 @@
   <!-- <script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-MML-AM_CHTML"> -->
   <script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS_CHTML">
   </script>
-  {% endif %}  
+  {% endif %}
+
+
+
+  <script type="text/javascript">
+      function usf_email(username) {
+          var email = username + '@usf.edu';
+          document.write('<a href=\"mailto:' + email + '\">');
+          document.write(email + '</a>');
+      }
+      function usf_email(username, text) {
+          var email = username + '@usf.edu';
+          document.write('<a href=\"mailto:' + email + '\">');
+          document.write(text + '</a>');
+      }
+      function gmail(username, text) {
+          var email = username + '@gmail.com';
+          document.write('<a href=\"mailto:' + email + '\">');
+          document.write(text + '</a>');
+      }
+  </script>
+
+
+
 </head>
