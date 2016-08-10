@@ -47,8 +47,13 @@ Mahdi Takalloo is a PhD student at USF IMSE. He received his BS in Industrial En
 <br><br><br><br>
 
 ### Zulqarnain Haider
+<<<<<<< HEAD
+<img src="images/haider.jpg" width="150" height="200" align="left" hspace="20" />
+[Zulqarnain Haider](https://www.linkedin.com/in/zulqarnain-haider-63482423) is a former Fulbright scholar and current PhD student at the IMSE department at USF. His research interests include application of Operations Research techniques to transportation systems and Healthcare. His current research encompasses issues related to Urban Transportation systems including making the alternatives including Bike Sharing and Car Sharing systems more operationally efficient through pricing interventions. He received his BSc. in Electrical Engineering from UET Lahore, Pakistan and his MS in Industrial and Systems Engineering from University at Buffalo, NY. He has previously worked at Nestle and Lahore Univeristy of Management Sciences. 
+=======
 
 [Zulqarnain Haider](https://www.linkedin.com/in/zulqarnain-haider-63482423) is a former Fulbright scholar and current PhD student in the IMSE department at USF. His research interests include application of Operations Research techniques to transportation systems and Healthcare. He current research encompasses issues related to Urban Transportation infrastructure including making the alternatives including Bike Sharing and Car Sharing systems more operationally efficient through pricing interventions. He received his BSc. in Electrical Engineering from UET Lahore, Pakistan and his MS in Industrial and Systems Engineering from University at Buffalo, NY. He has previously worked at Nestle and Lahore Univeristy of Management Sciences. 
+>>>>>>> master
 
 ## Past Members
 
