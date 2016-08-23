@@ -44,7 +44,7 @@ Mahdi Takalloo is a PhD student at USF IMSE. He received his BS in Industrial En
 [Aritra Pal](http://aritra1.myweb.usf.edu/) is a current PhD student in the IMSE department at USF. His research interest lies in Convex, Discrete and Combinatorial Optimization problems with applications in Transportation, Finance and Machine Learning. His current research focuses on using tools from Operations Research to make (Free-Floating) Bike Sharing more effective and more efficient. He received his BE in Electrical Engineering from IIEST, Shibpur in India. His co-adviser is <a href="http://cee.eng.usf.edu/faculty/YuZhang" target="_blank">Dr. Yu Zhang</a>.
 
 
-<br><br>
+<br>
 
 ### Zulqarnain Haider
 <img src="images/haider.jpg" width="150" height="200" align="left" hspace="20" />
@@ -52,10 +52,11 @@ Mahdi Takalloo is a PhD student at USF IMSE. He received his BS in Industrial En
 
 <br><br><br>
 
-###Liu Su
+### Liu Su
 <img src="images/su.jpg" width="150" height="200" align="left" hspace="20" />
 Liu Su is a PhD student at USF IMSE. Her current research interest is hazardous materials transportation. She received her BS in Industrial Engineering from Huazhong University of Science and Technology, and MS in Industrial and Manufacturing System Engineering from Iowa State University.
 
+<br><br><br><br><br><br>
 
 ## Past Members
 
