@@ -12,10 +12,11 @@ subtitle:
 ## Read a Graduate School Survival Guide
 Stop by [this collection of survival guides](/resources/graduate-school-guides), finish reading at least one survival guide. If you can't decide which, read [this article](http://cacm.acm.org/blogs/blog-cacm/157012-phds-from-the-facultys-perspective/fulltext). Read it three times. Read it every month.
 
-
-![](http://www.phdcomics.com/comics/archive/phd022515s.gif)
-To become an independent scholar
-
+<center>
+<img src="http://www.phdcomics.com/comics/archive/phd022515s.gif">
+<br>
+<em>To become an independent scholar</em>
+</center>
 
 
 ## How to Use LaTeX
