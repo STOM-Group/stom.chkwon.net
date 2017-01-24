@@ -49,8 +49,7 @@ I strongly recommend the one below for all graduate students, even if you are al
 - <a href="http://www.amazon.com/Manual-Writers-Research-Dissertations-Edition/dp/0226816389/" target="_blank">A Manual for Writers of Research Papers, Theses, and Dissertations</a> -- <em>Turabian et al.</em>
 - <a title="" href="http://www.amazon.com/Primer-Mathematical-Writing-Disquisition-Appreciated/dp/0821806351/" rel="nofollow">A Primer of Mathematical Writing: Being a Disquisition on Having Your Ideas Recorded, Typeset, Published, Read &amp; Appreciated</a> - <em>Steven G. Krantz</em>
 - <a href="http://www.eng.usf.edu/~cunning/CGN6933-drinkingwater/CGN6933-drinkingwater-project/HowToOutline.pdf" target="_blank">How To: Outlining a Research Paper</a> - <em>Amy Stuart</em>
-- <a href="https://www.dropbox.com/s/95l2xdva26vqf5z/Screenshot%202015-04-03%2012.07.42.png?dl=0" target="_blank">Remove (and move) to improve: the data tables edition</a>
-- <a href="http://i.imgur.com/WntrM6p.gif" target="_blank">Remove to improve: the data-ink ratio</a>
+- [Remove to improve](https://speakerdeck.com/cherdarchuk) - Excellent style guides for data, table, and charts, by *Joey Cherdarchuk*
 
 ## Publishing
 
