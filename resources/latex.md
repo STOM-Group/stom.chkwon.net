@@ -12,35 +12,41 @@ subtitle:
 ## How to start LaTeX
 
 1.  Download and install.
-  - [<em>Windows</em>] Download and install <a title="" href="http://www.tug.org/texlive/" rel="nofollow">TeX Live</a>. Install FULL.
-  - [<em>Mac OS</em>] Download and install <a title="" href="http://www.tug.org/mactex/" rel="nofollow">MacTeX</a>. Install FULL.
+  - [*Windows*] Download and install [TeX Live](http://www.tug.org/texlive/). Install FULL.
+  - [*Mac OS*] Download and install [MacTeX](http://www.tug.org/mactex/). Install FULL.
 (MacTeX is a redistribution of TeXLive, so they are pretty much same.)
-2. An editor called <a title="" href="http://www.tug.org/texworks/" rel="nofollow">TeXworks</a> is included in your installation. Use it to open .tex file and edit. (Mac users can use <a href="http://pages.uoregon.edu/koch/texshop/">TeXShop</a>, also in your installation.)
-3. Use <a href="https://gist.github.com/chkwon/821ee403b67aa46ee166" target="_blank">this sample tex file</a> as a quick start guide.
-4. Read <a title="" href="http://www.ctan.org/tex-archive/info/lshort/" rel="nofollow">this document</a>. (This is available in many languages; <a title="" href="http://mirror.ctan.org/info/lshort/english/lshort-letter.pdf" rel="nofollow">English</a>, <a title="" href="http://mirror.ctan.org/info/lshort/korean/lshort-kr.pdf" rel="nofollow">Korean</a>, <a title="" href="http://mirror.ctan.org/info/lshort/persian/lshort.pdf" rel="nofollow">Persian</a>, <a title="" href="http://mirror.ctan.org/info/lshort/chinese/lshort-zh-cn.pdf" rel="nofollow">Chinese</a>, and so on.)
+2. An editor called [TeXworks](http://www.tug.org/texworks/) is included in your installation. Use it to open .tex file and edit. (Mac users can use [TeXShop](http://pages.uoregon.edu/koch/texshop/), also in your installation.)
+3. Use [this sample tex file](https://gist.github.com/chkwon/821ee403b67aa46ee166) as a quick start guide.
+4. Read [this document](http://www.ctan.org/tex-archive/info/lshort/). (This is available in many languages including English, Korean, Persian, and Chinese.
 5. Start using it.
 
-You may want to watch <a href="https://www.sharelatex.com/blog/latex-guides/beginners-tutorial.html" target="_blank">this video beginners tutorial</a>.
+You may want to watch [this video beginners tutorial](https://www.sharelatex.com/blog/latex-guides/beginners-tutorial.html).
 
 ## Template and Tutorial
 One simple template is provided:
 
 {% gist 821ee403b67aa46ee166 %}
 
-- Dr. Kwon prepared <a href="https://github.com/chkwon/LaTeX-Paper-Template" target="_blank">a more complicated LaTeX template</a> that also serves as a tutorial. Download the file and learn how to use LaTeX.
+- Dr. Kwon prepared [a more complicated LaTeX template](https://github.com/chkwon/LaTeX-Paper-Template). Download the file and learn how to use LaTeX.
 - Dr. Kwon also created presentation slide templates for the [University of South Florida](https://github.com/chkwon/USF_Beamer_Template) and the [University at Buffalo](https://github.com/chkwon/UB_Beamer_Template).
 
 
 ## Sample Tasks to Complete for Beginners
-After reading the <a title="" href="http://www.ctan.org/tex-archive/info/lshort/" rel="nofollow">this document</a>, you may try to complete the following tasks:
+After reading the [this document](http://www.ctan.org/tex-archive/info/lshort/), you may try to complete the following tasks:
 
 -  Produce a final PDF file.
 -  Include a PDF image file (not JPG, GIF, PNG, EPS, etc) to the document.
 -  Write a table.
--  Learn how to manage .bib files. I recommend <a title="" href="http://jabref.sourceforge.net/" rel="nofollow">JabRef</a>. (Mac users can use <a href="http://bibdesk.sourceforge.net">BibDesk</a>.)
--  Using .bib and 'bibtex', cite a reference and create a final PDF file that includes a bibliography.
+-  Learn how to manage .bib files. I recommend [JabRef](http://jabref.sourceforge.net/). (Mac users can use [BibDesk](http://bibdesk.sourceforge.net).)
+-  Using .bib and `bibtex`, cite a reference and create a final PDF file that includes a bibliography.
 
 There are several ways to create a final PDF file and include images. I just prefer 'pdflatex' and PDF image formats to other methods and formats.
+
+
+## Installing a Spell Checker for TeXworks
+
+-  Follow [this instruction](http://tex.stackexchange.com/questions/235313/how-to-add-spell-checker-to-texworks-on-windows).
+
 
 ## Readings
 
@@ -83,9 +89,9 @@ There are several ways to create a final PDF file and include images. I just pre
 -  <a title="" href="http://hevea.inria.fr/index.html" rel="nofollow">HeVeA</a> - A good HTML translator for LaTeX.
 -  <a title="" href="http://tug.org/applications/tex4ht/mn.html" rel="nofollow">TeX4ht</a> - The best HTML translator for LaTeX that I know of. The HTML version of my <a href="http://www.chkwon.net/pmwiki/Main/CV">CV</a> is created by the htlatex command of TeX4ht.
 
-<h2>Graphics</h2>
+## Graphics
 
--  <a href="https://cschleiden.wordpress.com/2009/09/28/howto-export-excel-charts-as-pdf-to-include-in-latex-document/" target="_blank">Export Excel Charts as PDF</a>
+- [Export Excel Charts as PDF](https://cschleiden.wordpress.com/2009/09/28/howto-export-excel-charts-as-pdf-to-include-in-latex-document/)
 - [Ipe](http://ipe.otfried.org): A drawing editor with LaTeX source code as input
 - [Inkscape](http://inkscape.org) - This is an open source alternative to Adobe Illustrator. Inkscape can export drawings as LaTeX codes (save as PDF).
   - <a title="" href="http://pav.iki.fi/software/textext/#instructions-for-windows" rel="nofollow">textext</a> - An Inkscape extension to enter LaTeX equations in Inkscape
@@ -93,19 +99,23 @@ There are several ways to create a final PDF file and include images. I just pre
 - [What graphics packages are there for creating graphics in LaTeX documents?](http://tex.stackexchange.com/questions/205/what-graphics-packages-are-there-for-creating-graphics-in-latex-documents)
 
 ## Topics
-<h2>Citation and Bibliography</h2>
+### Citation and Bibliography
 
 -  <a title="" href="http://merkel.zoneo.net/Latex/natbib.php" rel="nofollow">Natbib reference sheet</a>
 -  <a title="" href="http://www.chkwon.net/pmwiki/uploads/Main/bibtex_guide_kim.pdf" rel="nofollow">A BibTeX Guide via Examples</a> - Ki-Joo Kim
 -  <a title="" href="http://jo.irisson.free.fr/bstdatabase/index.php" rel="nofollow">LaTeX Bibliography Styles Database</a>
 -  Which packages needed for a bibliogrpahy style? See the examples in <a title="" href="http://mirror.cac.psu.edu/pub/CTAN/biblio/bibtex/contrib/" rel="nofollow">this</a> and <a title="" href="http://www.math.utah.edu/pub/tex/bibtex/" rel="nofollow">this</a>.
 
-<h2>Converting to HTML and DOCX</h2>
+
+
+### Converting to HTML and DOCX
 This may not be the best way, but it has worked pretty well to me. No conversion is perfect. If you find any better way, please let me know!!
 
--  Download this "<a href="https://gist.github.com/chkwon/ea344919c5d9aea6ee0b" target="_blank">myxhtml.cfg</a>" file, and save it in the same folder of your filename.tex file.
+-  Download this "<a href="https://gist.github.com/chkwon/ea344919c5d9aea6ee0b">myxhtml.cfg</a>" file, and save it in the same folder of your filename.tex file.
 -  Run the following command:
-<pre>htlatex filename.tex myxhtml</pre>
+```
+htlatex filename.tex myxhtml
+```
 
 -  You will obtain filename.html.
 -  Open filename.html in Windows(!) and copy all contents and paste in a blank Word document.
@@ -115,15 +125,20 @@ The configuration file "myxhtml.cfg" does two things:
 
 -  Convert all mathematical expressions to PNG graphical files.
 -  Convert PDF graphics to PNG files. For this purpose, you should specify the file extension in your .tex file. For example
-<pre>\includegraphic{graphicfile.pdf}</pre>
-If your PDF graphic files are not converted, you should install <a href="http://www.imagemagick.org" target="_blank">ImageMagick</a> to your system..
+```latex
+\includegraphic{graphicfile.pdf}
+```
+If your PDF graphic files are not converted, you should install <a href="http://www.imagemagick.org">ImageMagick</a> to your system..
 
 If you receive error messages during conversion in Step 2, try to press the enter key several times to ignore errors. To make smoother conversion, try to minimize using packages and create tables as simple as possible. "Standard" packages such as amsmath works good enough.
-<h2>Grammar Check</h2>
+
+
+
+### Grammar Check
 One missing functionality in LaTeX is a grammar checker, while Microsoft Word has the best grammar checker. To use MS Word's grammar checker, follow the above guideline for conversion. Then you can use MS Word's powerful grammar checker.
 
 
-<h2>Beamer</h2>
+### Beamer
 Beamer is to generate presentation slides.
 
 -  <a title="" href="http://mirrors.ctan.org/macros/latex/contrib/beamer/doc/beameruserguide.pdf" rel="nofollow">The Beamer class User Guide</a>
@@ -133,7 +148,10 @@ Beamer is to generate presentation slides.
 -  <a title="" href="http://faq.ktug.or.kr/wiki/uploads/MathFonts.pdf" rel="nofollow">Math Fonts in Beamer</a>
 -  <a title="" href="http://deic.uab.es/~iblanes/beamer_gallery/index.html" rel="nofollow">Beamer theme gallery</a>
 
-<h2>Fonts</h2>
+
+
+
+### Fonts
 
 -  <a title="" href="http://www.tug.dk/FontCatalogue/" rel="nofollow">The LaTeX Font Catalogue</a>
 -  <a title="" href="http://ctan.tug.org/tex-archive/info/Free_Math_Font_Survey/survey.html" rel="nofollow">A Survey of Free Math Fonts for TeX and LaTeX</a>
@@ -162,46 +180,13 @@ renewcommand*familydefault{sfdefault}</pre>
 <pre>usepackage[T1]{fontenc}
 usepackage[scaled]{helvet}
 renewcommand*familydefault{sfdefault}</pre>
-<h2>TeXLive + ko.tex</h2>
-<a title="" href="http://project.ktug.or.kr/ko.TeX/" rel="nofollow">ko.TeX</a> is a Korean typesetting package. For TeXLive distributions, it is very simple to install. The year '2012' should be same as your TeXLive distribution version.
-
--  This is for Windows distribution. Run the following in a command window.
-
-<div id="sourceblock6">
-
-:: To add ko.tex to your TeXLive installation:
-<pre>tlmgr --location=http://ftp.ktug.or.kr/KTUG/texlive/2012 install collection-kotex</pre>
-:: To update the TeX tree:
-<pre>mktexlsr</pre>
-
--  This is for Mac distribution. Run the following in a terminal
-
-<div id="sourceblock7">
-
-:: To add ko.tex to your TeXLive installation:
-<pre>sudo tlmgr --repository=http://ftp.ktug.or.kr/KTUG/texlive/2012 install collection-kotex</pre>
-:: To update the TeX tree:
-<pre>mktexlsr</pre>
-<h2>Installing a Spell Checker for TeXworks</h2>
-
--  Go <a title="" href="http://wiki.services.openoffice.org/wiki/Dictionaries" rel="nofollow">here</a> and obtain appropriate dictionary files. For example, <a title="" href="http://ftp.services.openoffice.org/pub/OpenOffice.org/contrib/dictionaries/en_US.zip" rel="nofollow">US English</a>.
--  Follow <a title="" href="http://code.google.com/p/texworks/wiki/SpellingDictionaries" rel="nofollow">this direction</a> to install the obtained dictionary files.
-
--  For Windows 7 place .dic and .aff files in the following directory:
 
 
 
-<div id="sourceblock10">
 
-:: TeXLive
-<pre>C:Users&lt;user name&gt;.texlive2011texmf-configtexworksdictionaries</pre>
-:: MikTeX
-<pre>C:Users&lt;user name&gt;AppDataLocalMiKTeX&lt;MiKTeX version&gt;TeXworks&lt;TeXworks version&gt;dictionaries</pre>
-Then, restart TeXworks and select the installed dictionary in Edit &gt; Spelling menu.
-<h2>CV Templates</h2>
+
+### CV Templates
 
 -  <a title="" href="http://nitens.org/taraborelli/cvtex" rel="nofollow">Dario Taraborelli's template</a> - A very good template. My <a href="http://www.chkwon.net/pmwiki/Main/CV">CV</a> is based on this template with some modifications.
 -  <a title="" href="http://www.cv-templates.info/" rel="nofollow">The CV Inn</a>
 -  <a title="" href="http://tex.stackexchange.com/questions/80/latex-template-for-resume-curriculum-vitae" rel="nofollow">LaTeX template for resume/curriculum vitae</a> - a stackexchange entry
-
-<h2></h2>
