@@ -48,7 +48,7 @@ Mahdi Takalloo is a PhD student at USF IMSE. He received his BS in Industrial En
 
 ### Zulqarnain Haider
 <img src="images/haider.jpg" width="150" height="200" align="left" hspace="20" />
-[Zulqarnain Haider](https://www.linkedin.com/in/zulqarnain-haider-63482423) is a former Fulbright scholar and current PhD student at the IMSE department at USF. His research interests include application of Operations Research techniques to transportation systems and Healthcare. His current research encompasses issues related to sustainable urban transportation systems and conservation planning/environmental protection. He received his BSc. in Electrical Engineering from UET Lahore, Pakistan and his MS in Industrial and Systems Engineering from University at Buffalo, NY. He has previously worked at Nestle and Lahore University of Management Sciences. His is co-advised by [Dr. Hadi Charkhgard](http://www.eng.usf.edu/~hcharkhgard/)
+[Zulqarnain Haider](https://www.linkedin.com/in/zulqarnain-haider-63482423) is a former Fulbright scholar and current PhD student at the IMSE department at USF. His research interests include application of Operations Research techniques to transportation systems and Healthcare. His current research encompasses issues related to sustainable urban transportation systems and conservation planning/environmental protection. He received his BSc. in Electrical Engineering from UET Lahore, Pakistan and his MS in Industrial and Systems Engineering from University at Buffalo, NY. He has previously worked at Nestle and Lahore University of Management Sciences. His is co-advised by [Dr. Hadi Charkhgard](http://www.eng.usf.edu/~hcharkhgard/).
 
 <br>
 
