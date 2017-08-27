@@ -19,11 +19,6 @@ Current members of the STOM group
 
 <br><br>
 
-### Nan Ding
-<img src="images/ding.jpg" width="150" height="200" align="left" hspace="20" />
-Nan Ding is a current PhD student in the ISE department at UB. Her current research interest is in Electric Vehicle (EV) related optimization problems including EV routing and location design of EV refueling facilities. She received her BS in Electrical Engineering from Sichuan University in China, and MS in Electrical Engineering from UB. Her co-adviser is <a title="Rajan Batta" href="http://www.acsu.buffalo.edu/~batta/">Dr. Rajan Batta</a>.
-
-<br>
 
 ### Anpeng Zhang
 <img src="images/zhang.jpg" width="150" height="200" align="left" hspace="20" />
@@ -56,12 +51,20 @@ Mahdi Takalloo is a PhD student at USF IMSE. He received his BS in Industrial En
 <img src="images/su.jpg" width="150" height="200" align="left" hspace="20" />
 Liu Su is a PhD student at USF IMSE. Her current research interest is hazardous materials transportation. She received her BS in Industrial Engineering from Huazhong University of Science and Technology, and MS in Industrial and Manufacturing System Engineering from Iowa State University.
 
+<br><br><br>
+
+### Kevin Melendez
+<img src="images/melendez.jpg" width="150" height="200" align="left" hspace="20" />
+Kevin Melendez is a PhD student at the IMSE department of USF. His current research interests are energy transportation, network optimization and hazard conditions prevention. His past research topics were advanced control strategies, fault detection, identification and diagnosis. He received his BS and MS in Mechanical Engineering from Universidad del Norte, been honored with a Cum Laude award for his master thesis. Previously, he worked at Universidad del Norte as a TA, RA, instructor and project engineer and on a major oil and gas industry in Colombia as an R&D engineer. He is co-advised by Dr [Tapas Das](http://www.eng.usf.edu/~das).
+
+
 <br><br><br><br><br><br>
 
 ## Past Members
 
 ### University at Buffalo
 <ul>
+  <li>Nan Ding, Ph.D., 2017, Enabling Urban Parcel Pick-up and Delivery using All-Electric Trucks</li>
 	<li><a href="https://longshengsun.net">Longsheng Sun</a>, Ph.D., 2016, Designing Regulation Policies for Hazardous Materials Transportation</li>
 	<li><a href="https://www.linkedin.com/pub/masoumeh-taslimi/92/b90/b33">Masoumeh Taslimi</a>, Ph.D., 2015, On the Analysis of Two Problems related to Risk Management in Urban Transportation Networks</li>
 	<li><a href="https://www.linkedin.com/in/tolou-esfandeh-phd-b179b237">Tolou Esfandeh</a>, Ph.D., 2015, Regulating Hazardous Materials Transportation by Dual-Toll Pricing and Time-Dependent Network Design Policies</li>
