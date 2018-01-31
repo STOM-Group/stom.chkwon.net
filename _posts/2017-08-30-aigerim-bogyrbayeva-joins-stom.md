@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Xufei Liu joins the group
+title: Aigerim Bogyrbayeva joins the group
 ---
 
 
-![](/people/images/liu.jpg)
+![](/people/images/bogyrbayeva.jpg)
 
-Xufei Liu is a PhD student at the IMSE department of USF. She received her BS and MS in Industrial Engineering from Jilin University in 2014 and 2017, respectively. Her current research interest is hazardous materials transportation.
+Aigerim Bogyrbayeva is a PhD student at the IMSE department at USF. She received her BS in Industrial and Operations Engineering from the University of Michigan. Her research interests lie in market design for transportation service systems.
