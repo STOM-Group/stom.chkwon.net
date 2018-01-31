@@ -61,6 +61,13 @@ Aigerim Bogyrbayeva is a PhD student at the IMSE department at USF. She received
 
 <br><br><br><br><br><br>
 
+
+### Xufei Liu
+<img src="images/liu.jpg" width="150" height="200" align="left" hspace="20" />
+Xufei Liu is a PhD student at the IMSE department of USF. She received her BS and MS in Industrial Engineering from Jilin University in 2014 and 2017, respectively. Her current research interest is hazardous materials transportation.
+
+
+
 ## Past Members
 
 ### University of South Florida
