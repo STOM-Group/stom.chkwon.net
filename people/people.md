@@ -17,14 +17,14 @@ Current members of the STOM group
 <img src="images/kwon.jpg" width="150" height="200" align="left" hspace="20" />
 <a href="http://www.chkwon.net">Changhyun Kwon</a> is an associate professor. His research interests include transportation systems, extreme events, infrastructure management, and service operations. He received his PhD and MS in Industrial Engineering from Penn State, and BS in Mechanical Engineering from KAIST.
 
-<br><br>
+<br><br><br><br><br><br>
 
 
 ### Anpeng Zhang
 <img src="images/zhang.jpg" width="150" height="200" align="left" hspace="20" />
 <a href="https://www.linkedin.com/profile/view?id=209488765&amp;authType=NAME_SEARCH&amp;authToken=EAKU&amp;locale=en_US&amp;srchid=58138691440082063899&amp;srchindex=1&amp;srchtotal=1&amp;trk=vsrp_people_res_name&amp;trkInfo=VSRPsearchId%3A58138691440082063899%2CVSRPtargetId%3A209488765%2CVSRPcmpt%3Aprimary%2CVSRPnm%3Atrue%2CauthType%3ANAME_SEARCH">Anpeng Zhang</a> is a PhD student at UB ISE. His focus area is electric vehicles. He received his BS in Mathematics and Applied Mathematics from Fudan University in 2013. His co-advisor is <a href="http://www.acsu.buffalo.edu/~jeeeunka/">Dr. Jee Eun Kang</a>.
 
-<br><br><br>
+<br><br><br><br><br><br>
 
 
 ### Mahdi Takalloo
@@ -32,32 +32,27 @@ Current members of the STOM group
 Mahdi Takalloo is a PhD student at USF IMSE. He received his BS in Industrial Engineering and MS in Systems Engineering, both from Sharif University of Technology.
 
 
-<br><br><br><br>
-
-### Aritra Pal
-<img src="images/pal.jpg" width="150" height="200" align="left" hspace="20" />
-[Aritra Pal](http://aritra1.myweb.usf.edu/) is a current PhD student in the IMSE department at USF. His research interest lies in Convex, Discrete and Combinatorial Optimization problems with applications in Transportation, Finance and Machine Learning. His current research focuses on using tools from Operations Research to make (Free-Floating) Bike Sharing more effective and more efficient. He received his BE in Electrical Engineering from IIEST, Shibpur in India. His co-adviser is <a href="http://cee.eng.usf.edu/faculty/YuZhang">Dr. Yu Zhang</a>.
+<br><br><br><br><br><br>
 
 
-<br>
 
 ### Zulqarnain Haider
 <img src="images/haider.jpg" width="150" height="200" align="left" hspace="20" />
 [Zulqarnain Haider](https://www.linkedin.com/in/zulqarnain-haider-63482423) is a former Fulbright scholar and current PhD student at the IMSE department at USF. His research interests include application of Operations Research techniques to transportation systems and Healthcare. His current research encompasses issues related to sustainable urban transportation systems and conservation planning/environmental protection. He received his BSc. in Electrical Engineering from UET Lahore, Pakistan and his MS in Industrial and Systems Engineering from University at Buffalo, NY. He has previously worked at Nestle and Lahore University of Management Sciences. His is co-advised by [Dr. Hadi Charkhgard](http://www.eng.usf.edu/~hcharkhgard/).
 
-<br>
+<br><br><br><br><br><br>
 
 ### Liu Su
 <img src="images/su.jpg" width="150" height="200" align="left" hspace="20" />
 Liu Su is a PhD student at USF IMSE. Her current research interest is hazardous materials transportation. She received her BS in Industrial Engineering from Huazhong University of Science and Technology, and MS in Industrial and Manufacturing System Engineering from Iowa State University.
 
-<br><br><br>
+<br><br><br><br><br><br>
 
 ### Kevin Melendez
 <img src="images/melendez.jpg" width="150" height="200" align="left" hspace="20" />
 Kevin Melendez is a PhD student at the IMSE department of USF. His current research interests are energy transportation, network optimization and hazard conditions prevention. His past research topics were advanced control strategies, fault detection, identification and diagnosis. He received his BS and MS in Mechanical Engineering from Universidad del Norte, been honored with a Cum Laude award for his master thesis. Previously, he worked at Universidad del Norte as a TA, RA, instructor and project engineer and on a major oil and gas industry in Colombia as an R&D engineer. He is co-advised by Dr [Tapas Das](http://www.eng.usf.edu/~das).
 
-<br><br><br>
+<br><br><br><br><br><br>
 
 
 ### Aigerim Bogyrbayeva
@@ -67,6 +62,12 @@ Aigerim Bogyrbayeva is a PhD student at the IMSE department at USF. She received
 <br><br><br><br><br><br>
 
 ## Past Members
+
+### University of South Florida
+
+- [Aritra Pal](https://www.linkedin.com/in/aritrasep/), Ph.D., 2017, Improving Service Level of Free-Floating Bike Sharing Systems
+
+
 
 ### University at Buffalo
 <ul>
