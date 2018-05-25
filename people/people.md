@@ -86,7 +86,7 @@ Xufei Liu is a PhD student at the IMSE department of USF. She received her BS an
 	<li><a href="https://www.linkedin.com/pub/iakovos-toumazis/49/327/917">Iakovos Toumazis</a>, Ph.D., 2015, Dynamic Chemotherapy Scheduling for Metastatic Colorectal Cancer Patients: Assessments and Improvements (<a href="http://toumiak.com">web</a>)</li>
 	<li><a href="https://www.linkedin.com/profile/view?id=61312329">Md. Tanveer Ahmed</a>, Ph.D., 2013, Revenue Management for Online Advertisement Services</li>
 	<li><a href="https://www.linkedin.com/profile/view?id=355659138">Paul Berglund</a>, Ph.D., 2012 Three Problems in Discrete Network Facility Location</li>
-	<li><a href="https://www.linkedin.com/profile/view?id=67693217">Yingying Kang</a>, Ph.D., 2011, (co-advisor Dr. Rajan Batta), Value-at-Risk Models for Hazardous Materials Transportation</li>
+	<li><a href="https://www.linkedin.com/in/yingying-kang-3958061a/>Yingying Kang</a>, Ph.D., 2011, (co-advisor Dr. Rajan Batta), Value-at-Risk Models for Hazardous Materials Transportation</li>
 	<li><a href="https://www.linkedin.com/in/alisattarzadeh">Ali Sattarzadeh</a>, M.S., 2015, Hazmat Network Design Considering Risk and Cost Equity</li>
 	<li><a href="https://www.linkedin.com/profile/view?id=82661512">Zulqarnain Haider</a>, M.S., 2014, Inventory Rebalancing through Pricing in Public Bike Sharing Systems</li>
 	<li><a href="https://www.linkedin.com/profile/view?id=109106725">Chelsea Greene</a>, M.S., 2013 (co-advisor Dr. Rajan Batta), OR/MS Approaches to Problems involving Hazardous Materials Risk and Impacts from a Natural Disaster</li>
