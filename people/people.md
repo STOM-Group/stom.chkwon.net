@@ -15,14 +15,14 @@ Current members of the STOM group
 
 ### Changhyun Kwon
 <img src="images/kwon.jpg" width="150" height="200" align="left" hspace="20" />
-<a href="http://www.chkwon.net">Changhyun Kwon</a> is an associate professor. His research interests include transportation systems, extreme events, infrastructure management, and service operations. He received his PhD and MS in Industrial Engineering from Penn State, and BS in Mechanical Engineering from KAIST.
+<a href="http://www.chkwon.net[Changhyun Kwon]() is an associate professor. His research interests include transportation systems, extreme events, infrastructure management, and service operations. He received his PhD and MS in Industrial Engineering from Penn State, and BS in Mechanical Engineering from KAIST.
 
 <br><br><br><br><br><br>
 
 
 ### Anpeng Zhang
 <img src="images/zhang.jpg" width="150" height="200" align="left" hspace="20" />
-<a href="https://www.linkedin.com/profile/view?id=209488765&amp;authType=NAME_SEARCH&amp;authToken=EAKU&amp;locale=en_US&amp;srchid=58138691440082063899&amp;srchindex=1&amp;srchtotal=1&amp;trk=vsrp_people_res_name&amp;trkInfo=VSRPsearchId%3A58138691440082063899%2CVSRPtargetId%3A209488765%2CVSRPcmpt%3Aprimary%2CVSRPnm%3Atrue%2CauthType%3ANAME_SEARCH">Anpeng Zhang</a> is a PhD student at UB ISE. His focus area is electric vehicles. He received his BS in Mathematics and Applied Mathematics from Fudan University in 2013. His co-advisor is <a href="http://www.acsu.buffalo.edu/~jeeeunka/">Dr. Jee Eun Kang</a>.
+<a href="https://www.linkedin.com/profile/view?id=209488765&amp;authType=NAME_SEARCH&amp;authToken=EAKU&amp;locale=en_US&amp;srchid=58138691440082063899&amp;srchindex=1&amp;srchtotal=1&amp;trk=vsrp_people_res_name&amp;trkInfo=VSRPsearchId%3A58138691440082063899%2CVSRPtargetId%3A209488765%2CVSRPcmpt%3Aprimary%2CVSRPnm%3Atrue%2CauthType%3ANAME_SEARCH[Anpeng Zhang]() is a PhD student at UB ISE. His focus area is electric vehicles. He received his BS in Mathematics and Applied Mathematics from Fudan University in 2013. His co-advisor is <a href="http://www.acsu.buffalo.edu/~jeeeunka/[Dr. Jee Eun Kang]().
 
 <br><br><br><br><br><br>
 
@@ -78,20 +78,20 @@ Xufei Liu is a PhD student at the IMSE department of USF. She received her BS an
 
 
 ### University at Buffalo
-<ul>
-  <li>Nan Ding, Ph.D., 2017, Enabling Urban Parcel Pick-up and Delivery using All-Electric Trucks</li>
-	<li><a href="https://longshengsun.net">Longsheng Sun</a>, Ph.D., 2016, Designing Regulation Policies for Hazardous Materials Transportation</li>
-	<li><a href="https://www.linkedin.com/pub/masoumeh-taslimi/92/b90/b33">Masoumeh Taslimi</a>, Ph.D., 2015, On the Analysis of Two Problems related to Risk Management in Urban Transportation Networks</li>
-	<li><a href="https://www.linkedin.com/in/tolou-esfandeh-phd-b179b237">Tolou Esfandeh</a>, Ph.D., 2015, Regulating Hazardous Materials Transportation by Dual-Toll Pricing and Time-Dependent Network Design Policies</li>
-	<li><a href="https://www.linkedin.com/pub/iakovos-toumazis/49/327/917">Iakovos Toumazis</a>, Ph.D., 2015, Dynamic Chemotherapy Scheduling for Metastatic Colorectal Cancer Patients: Assessments and Improvements (<a href="http://toumiak.com">web</a>)</li>
-	<li><a href="https://www.linkedin.com/profile/view?id=61312329">Md. Tanveer Ahmed</a>, Ph.D., 2013, Revenue Management for Online Advertisement Services</li>
-	<li><a href="https://www.linkedin.com/profile/view?id=355659138">Paul Berglund</a>, Ph.D., 2012 Three Problems in Discrete Network Facility Location</li>
-	<li><a href="https://www.linkedin.com/in/yingying-kang-3958061a/>Yingying Kang</a>, Ph.D., 2011, (co-advisor Dr. Rajan Batta), Value-at-Risk Models for Hazardous Materials Transportation</li>
-	<li><a href="https://www.linkedin.com/in/alisattarzadeh">Ali Sattarzadeh</a>, M.S., 2015, Hazmat Network Design Considering Risk and Cost Equity</li>
-	<li><a href="https://www.linkedin.com/profile/view?id=82661512">Zulqarnain Haider</a>, M.S., 2014, Inventory Rebalancing through Pricing in Public Bike Sharing Systems</li>
-	<li><a href="https://www.linkedin.com/profile/view?id=109106725">Chelsea Greene</a>, M.S., 2013 (co-advisor Dr. Rajan Batta), OR/MS Approaches to Problems involving Hazardous Materials Risk and Impacts from a Natural Disaster</li>
-	<li><a href="https://www.linkedin.com/profile/view?id=29510416">Anand Srinivasan</a>, M.S., 2010, Operations of Online Advertising Services and Publisher's Options</li>
-	<li><a href="https://www.linkedin.com/profile/view?id=46544652">Amod Anand Agashe</a>, M.S., 2010, Stochastic Revenue Optimization in Online Advertising</li>
-	<li><a href="https://www.linkedin.com/profile/view?id=46856185">Varun Narayana Kutty</a>, M.S., 2010, Accept-Reject Decision in Online Advertising using Geometric Brownian Motion</li>
-</ul>
+
+- [Nan Ding](https://www.linkedin.com/in/nan-ding-nbc/), Ph.D., 2017, Enabling Urban Parcel Pick-up and Delivery using All-Electric Trucks
+- [Longsheng Sun](https://www.linkedin.com/in/longshengsun/), Ph.D., 2016, Designing Regulation Policies for Hazardous Materials Transportation ([web](https://longshengsun.net))
+- [Masoumeh Taslimi](https://www.linkedin.com/in/masoumeh-taslimi-b33b9092/), Ph.D., 2015, On the Analysis of Two Problems related to Risk Management in Urban Transportation Networks
+- [Tolou Esfandeh](https://www.linkedin.com/in/tolou-esfandeh-b179b237/), Ph.D., 2015, Regulating Hazardous Materials Transportation by Dual-Toll Pricing and Time-Dependent Network Design Policies
+- [Iakovos Toumazis](https://www.linkedin.com/pub/iakovos-toumazis/49/327/917), Ph.D., 2015, Dynamic Chemotherapy Scheduling for Metastatic Colorectal Cancer Patients: Assessments and Improvements ([web](http://toumiak.com))
+- [Md. Tanveer Ahmed](https://www.linkedin.com/in/mtahmed/), Ph.D., 2013, Revenue Management for Online Advertisement Services
+- [Paul Berglund](https://www.linkedin.com/in/paul-berglund-3161399b/), Ph.D., 2012 Three Problems in Discrete Network Facility Location
+- [Yingying Kang](https://www.linkedin.com/in/yingying-kang-3958061a/), Ph.D., 2011, (co-advisor Dr. Rajan Batta), Value-at-Risk Models for Hazardous Materials Transportation
+- [Ali Sattarzadeh](https://www.linkedin.com/in/alisattarzadeh), M.S., 2015, Hazmat Network Design Considering Risk and Cost Equity
+- [Zulqarnain Haider](https://www.linkedin.com/in/zulqarnain-haider-63482423/), M.S., 2014, Inventory Rebalancing through Pricing in Public Bike Sharing Systems
+- [Chelsea Greene](https://www.linkedin.com/in/cgreene3/), M.S., 2013 (co-advisor Dr. Rajan Batta), OR/MS Approaches to Problems involving Hazardous Materials Risk and Impacts from a Natural Disaster
+- [Anand Srinivasan](https://www.linkedin.com/in/anand-srinivasan-954a719/), M.S., 2010, Operations of Online Advertising Services and Publisher's Options
+- [Amod Anand Agashe](https://www.linkedin.com/in/amod-agashe-69070713/), M.S., 2010, Stochastic Revenue Optimization in Online Advertising
+- [Varun Narayana Kutty](https://www.linkedin.com/in/varunnk/), M.S., 2010, Accept-Reject Decision in Online Advertising using Geometric Brownian Motion
+
 &nbsp;
