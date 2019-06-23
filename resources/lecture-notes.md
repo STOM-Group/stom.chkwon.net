@@ -41,7 +41,7 @@ This is simply a collection of links and PDF files. If a link does not work, you
 <ul>
 	<li>(<a title="" href="http://www.sor.princeton.edu/~rvdb/506book/book.pdf" rel="nofollow">PDF</a>) Mathematical Methods of Engineering Analysis --<em>Erhan Cinlar</em> and <em>Robert J. Vanderbei</em></li>
 	<li>(<a title="" href="http://www-unix.oit.umass.edu/~gbs/mta/MTA_Ch2_1-9-01.pdf" rel="nofollow">PDF</a>)(<a title="" href="http://www-unix.oit.umass.edu/~gbs/mta/%20LINK" rel="nofollow">http://www-unix.oit.umass.edu/~gbs/mta/ LINK</a>) Banach Spaces and Differential Calculus --<em>Jerrold E. Marsden</em> and <em>Tudor S. Ratiu</em></li>
-	<li>(<a title="" href="http://www.ma.utexas.edu/users/arbogast/driver.pdf" rel="nofollow">PDF</a>) Methods of Applied Mathematics --<em>Todd Arbogast</em> and <em>Jerry Bona</em></li>
+	<li>(<a title="" href="https://web.ma.utexas.edu/users/arbogast/appMath08c.pdf" rel="nofollow">PDF</a>) Methods of Applied Mathematics --<em>Todd Arbogast</em> and <em>Jerry Bona</em></li>
 	<li>(<a title="" href="http://www.ima.umn.edu/~miller/" rel="nofollow">LINK</a>) Lecture Notes and Background Materials on Lebesgue Theory from a Hilbert and Banach Space Perspective, Including an Application to Fractal Image Compression --<em> Willard Miller</em></li>
 	<li>(<a title="" href="http://homepages.nyu.edu/~eo1/books.html" rel="nofollow">LINK</a>) Real Analysis and Probability Theory with Economic Applications --<em>Efe Ok</em></li>
 	<li>(<a title="" href="http://www.math.jyu.fi/research/reports/rep100.pdf" rel="nofollow">PDF</a>) Lectures on Lipschitz Analysis --<em>Juha Heinonen</em></li>
