@@ -17,14 +17,10 @@ Current members of the STOM group
 <p><img src="images/kwon.jpg" width="150" height="200" align="left" hspace="20" /></p>
 [Changhyun Kwon](http://www.chkwon.net) is an associate professor. His research interests include transportation systems, extreme events, infrastructure management, and service operations. He received his PhD and MS in Industrial Engineering from Penn State, and BS in Mechanical Engineering from KAIST.
 
-<br><br>
+<br><br><br><br>
 
 
-### Anpeng Zhang
-<img src="images/zhang.jpg" width="150" height="200" align="left" hspace="20" />
-[Anpeng Zhang](https://www.linkedin.com/in/anpengzh7/) is a PhD student at UB ISE. His focus area is electric vehicles. He received his BS in Mathematics and Applied Mathematics from Fudan University in 2013. His co-advisor is [Dr. Jee Eun Kang](http://www.acsu.buffalo.edu/~jeeeunka/).
 
-<br><br>
 
 
 ### Mahdi Takalloo
@@ -41,42 +37,41 @@ Current members of the STOM group
 [Zulqarnain Haider](https://www.linkedin.com/in/zulqarnain-haider-63482423) is a former Fulbright scholar and current PhD student at the IMSE department at USF. His research interests include application of Operations Research techniques to transportation systems and Healthcare. His current research encompasses issues related to sustainable urban transportation systems and conservation planning/environmental protection. He received his BSc. in Electrical Engineering from UET Lahore, Pakistan and his MS in Industrial and Systems Engineering from University at Buffalo, NY. He has previously worked at Nestle and Lahore University of Management Sciences. His is co-advised by [Dr. Hadi Charkhgard](http://www.eng.usf.edu/~hcharkhgard/).
 
 
-### Liu Su
-<img src="images/su.jpg" width="150" height="200" align="left" hspace="20" />
-[Liu Su](https://www.linkedin.com/in/liu-su-6976b097/) is a PhD student at USF IMSE. Her current research interest is hazardous materials transportation. She received her BS in Industrial Engineering from Huazhong University of Science and Technology, and MS in Industrial and Manufacturing System Engineering from Iowa State University.
 
-<br><br>
+<br><br><br><br>
 
 
 ### Kevin Melendez
 <img src="images/melendez.jpg" width="150" height="200" align="left" hspace="20" />
 [Kevin Melendez](https://www.linkedin.com/in/melendez09/) is a PhD student at the IMSE department of USF. His current research interests are energy transportation, network optimization and hazard conditions prevention. His past research topics were advanced control strategies, fault detection, identification and diagnosis. He received his BS and MS in Mechanical Engineering from Universidad del Norte, been honored with a Cum Laude award for his master thesis. Previously, he worked at Universidad del Norte as a TA, RA, instructor and project engineer and on a major oil and gas industry in Colombia as an R&D engineer. He is co-advised by Dr [Tapas Das](http://www.eng.usf.edu/~das).
 
+<br><br><br><br>
 
 ### Aigerim Bogyrbayeva
 <img src="images/bogyrbayeva.jpg" width="150" height="200" align="left" hspace="20" />
 [Aigerim Bogyrbayeva](https://www.linkedin.com/in/айгерим-богырбаева-003b1239/) is a PhD student at the IMSE department at USF. She received her BS in Industrial and Operations Engineering from the University of Michigan. Her research interests lie in market design for transportation service systems.
 
-<br><br>
+<br><br><br><br>
 
 
 ### Xufei Liu
 <img src="images/liu.jpg" width="150" height="200" align="left" hspace="20" />
 Xufei Liu is a PhD student at the IMSE department of USF. She received her BS and MS in Industrial Engineering from Jilin University in 2014 and 2017, respectively. Her current research interest is hazardous materials transportation.
 
-<br><br><br><br><br><br>
+<br><br><br><br>
 
 
 ## Past Members
 
 ### University of South Florida
 
+- [Liu Su](https://www.linkedin.com/in/liu-su-6976b097/), Ph.D., 2019, Routing and Designing Networks for Two Transportation Problems
 - [Aritra Pal](https://www.linkedin.com/in/aritrasep/), Ph.D., 2017, Improving Service Level of Free-Floating Bike Sharing Systems
-
 
 
 ### University at Buffalo
 
+- [Anpeng Zhang](https://www.linkedin.com/in/anpengzh7/), Ph.D., 2018, Understanding and Modeling New Transportation Markets with Emerging Vehicle Technologies (co-advisor [Dr. Jee Eun Kang](http://www.acsu.buffalo.edu/~jeeeunka/))
 - [Nan Ding](https://www.linkedin.com/in/nan-ding-nbc/), Ph.D., 2017, Enabling Urban Parcel Pick-up and Delivery using All-Electric Trucks (co-advisor Dr. Rajan Batta)
 - [Longsheng Sun](https://www.linkedin.com/in/longshengsun/), Ph.D., 2016, Designing Regulation Policies for Hazardous Materials Transportation ([web](https://longshengsun.net)) (co-advisor Dr. Mark Karwan)
 - [Masoumeh Taslimi](https://www.linkedin.com/in/masoumeh-taslimi-b33b9092/), Ph.D., 2015, On the Analysis of Two Problems related to Risk Management in Urban Transportation Networks (co-advisor Dr. Rajan Batta)
