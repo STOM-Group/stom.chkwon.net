@@ -17,15 +17,6 @@ Current members of the STOM group
 <p><img src="images/kwon.jpg" width="150" height="200" align="left" hspace="20" /></p>
 [Changhyun Kwon](http://www.chkwon.net) is an associate professor. His research interests include transportation systems, extreme events, infrastructure management, and service operations. He received his PhD and MS in Industrial Engineering from Penn State, and BS in Mechanical Engineering from KAIST.
 
-<br><br><br><br>
-
-
-
-
-
-### Mahdi Takalloo
-<img src="images/takalloo.jpg" width="150" height="200" align="left" hspace="20" />
-[Mahdi Takalloo](https://www.linkedin.com/in/mahdi-takalloo-a18495105/) is a PhD student at USF IMSE. He received his BS in Industrial Engineering and MS in Systems Engineering, both from Sharif University of Technology.
 
 
 <br><br><br><br>
@@ -37,13 +28,6 @@ Current members of the STOM group
 [Zulqarnain Haider](https://www.linkedin.com/in/zulqarnain-haider-63482423) is a former Fulbright scholar and current PhD student at the IMSE department at USF. His research interests include application of Operations Research techniques to transportation systems and Healthcare. His current research encompasses issues related to sustainable urban transportation systems and conservation planning/environmental protection. He received his BSc. in Electrical Engineering from UET Lahore, Pakistan and his MS in Industrial and Systems Engineering from University at Buffalo, NY. He has previously worked at Nestle and Lahore University of Management Sciences. His is co-advised by [Dr. Hadi Charkhgard](http://www.eng.usf.edu/~hcharkhgard/).
 
 
-
-<br><br><br><br>
-
-
-### Kevin Melendez
-<img src="images/melendez.jpg" width="150" height="200" align="left" hspace="20" />
-[Kevin Melendez](https://www.linkedin.com/in/melendez09/) is a PhD student at the IMSE department of USF. His current research interests are energy transportation, network optimization and hazard conditions prevention. His past research topics were advanced control strategies, fault detection, identification and diagnosis. He received his BS and MS in Mechanical Engineering from Universidad del Norte, been honored with a Cum Laude award for his master thesis. Previously, he worked at Universidad del Norte as a TA, RA, instructor and project engineer and on a major oil and gas industry in Colombia as an R&D engineer. He is co-advised by Dr [Tapas Das](http://www.eng.usf.edu/~das).
 
 <br><br><br><br>
 
@@ -64,7 +48,8 @@ Xufei Liu is a PhD student at the IMSE department of USF. She received her BS an
 ## Past Members
 
 ### University of South Florida
-
+- [Mahdi Takalloo](https://www.linkedin.com/in/mahdi-takalloo-a18495105/), Ph.D., 2020, Game Theory Approaches for Transportation Problems 
+- [Kevin Melendez](https://www.linkedin.com/in/melendez09/), Ph.D., 2020, On the Convergence of Transportation and Power Systems in Smart and Connected Communities (co-advisor [Dr. Tapas Das](http://www.eng.usf.edu/~das))
 - [Liu Su](https://www.linkedin.com/in/liu-su-6976b097/), Ph.D., 2019, Routing and Designing Networks for Two Transportation Problems
 - [Aritra Pal](https://www.linkedin.com/in/aritrasep/), Ph.D., 2017, Improving Service Level of Free-Floating Bike Sharing Systems
 
