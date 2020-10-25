@@ -166,27 +166,32 @@ renewcommand*familydefault{sfdefault}</pre>
 
 -  Times Roman
 
-<div id="sourceblock3">
-<pre>usepackage{mathptmx}</pre>
+```latex
+\usepackage{mathptmx}
+```
 
 -  Palatino
 
-<div id="sourceblock4">
-<pre>usepackage{mathpazo}</pre>
+```latex
+\usepackage{mathpazo}
+```
 
 -  Helvetica
 
-<div id="sourceblock5">
-<pre>usepackage[T1]{fontenc}
-usepackage[scaled]{helvet}
-renewcommand*familydefault{sfdefault}</pre>
 
+```latex
+\usepackage[T1]{fontenc}
+\usepackage[scaled]{helvet}
+\renewcommand*familydefault{sfdefault}
+```
 
 
 
 
 ### CV Templates
 
--  <a title="" href="http://nitens.org/taraborelli/cvtex" rel="nofollow">Dario Taraborelli's template</a> - A very good template. My <a href="http://www.chkwon.net/pmwiki/Main/CV">CV</a> is based on this template with some modifications.
+-  <a title="" href="http://nitens.org/taraborelli/cvtex" rel="nofollow">Dario Taraborelli's template</a>: A very good template. My <a href="http://www.chkwon.net/pmwiki/Main/CV">CV</a> is based on this template with some modifications.
 -  <a title="" href="http://www.cv-templates.info/" rel="nofollow">The CV Inn</a>
 -  <a title="" href="http://tex.stackexchange.com/questions/80/latex-template-for-resume-curriculum-vitae" rel="nofollow">LaTeX template for resume/curriculum vitae</a> - a stackexchange entry
+
+
