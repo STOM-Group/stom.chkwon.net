@@ -25,7 +25,7 @@ You may want to watch [this video beginners tutorial](https://www.overleaf.com/l
 ## Template and Tutorial
 One simple template is provided:
 
-{% gist 821ee403b67aa46ee166 %}
+<script src="https://gist.github.com/chkwon/821ee403b67aa46ee166.js"></script>
 
 - Dr. Kwon prepared [a more complicated LaTeX template](https://github.com/chkwon/LaTeX-Paper-Template). Download the file and learn how to use LaTeX.
 - Dr. Kwon also created presentation slide templates for the [University of South Florida](https://github.com/chkwon/USF_Beamer_Template).
