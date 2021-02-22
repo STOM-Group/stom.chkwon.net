@@ -15,12 +15,12 @@ subtitle:
   - [*Windows*] Download and install [TeX Live](http://www.tug.org/texlive/). Install FULL.
   - [*Mac OS*] Download and install [MacTeX](http://www.tug.org/mactex/). Install FULL.
 (MacTeX is a redistribution of TeXLive, so they are pretty much same.)
-2. An editor called [TeXworks](http://www.tug.org/texworks/) is included in your installation. Use it to open .tex file and edit. (Mac users can use [TeXShop](http://pages.uoregon.edu/koch/texshop/), also in your installation.)
+2. I recommend [Visual Studio Code](https://code.visualstudio.com) as your LaTeX editor with the [LaTeX Workshop](https://marketplace.visualstudio.com/items?itemName=James-Yu.latex-workshop) extension.
 3. Use [this sample tex file](https://gist.github.com/chkwon/821ee403b67aa46ee166) as a quick start guide.
-4. Read [this document](http://www.ctan.org/tex-archive/info/lshort/). (This is available in many languages including English, Korean, Persian, and Chinese.
+4. Read [this document](http://www.ctan.org/tex-archive/info/lshort/). (This is available in many languages including English, Korean, Persian, Russian, Vietnamese, and Chinese.
 5. Start using it.
 
-You may want to watch [this video beginners tutorial](https://www.sharelatex.com/blog/latex-guides/beginners-tutorial.html).
+You may want to watch [this video beginners tutorial](https://www.overleaf.com/learn/latex/LaTeX_video_tutorial_for_beginners_(video_1)).
 
 ## Template and Tutorial
 One simple template is provided:
@@ -28,11 +28,11 @@ One simple template is provided:
 {% gist 821ee403b67aa46ee166 %}
 
 - Dr. Kwon prepared [a more complicated LaTeX template](https://github.com/chkwon/LaTeX-Paper-Template). Download the file and learn how to use LaTeX.
-- Dr. Kwon also created presentation slide templates for the [University of South Florida](https://github.com/chkwon/USF_Beamer_Template) and the [University at Buffalo](https://github.com/chkwon/UB_Beamer_Template).
+- Dr. Kwon also created presentation slide templates for the [University of South Florida](https://github.com/chkwon/USF_Beamer_Template).
 
 
 ## Sample Tasks to Complete for Beginners
-After reading the [this document](http://www.ctan.org/tex-archive/info/lshort/), you may try to complete the following tasks:
+After reading [this document](http://www.ctan.org/tex-archive/info/lshort/), you may try to complete the following tasks:
 
 -  Produce a final PDF file.
 -  Include a PDF image file (not JPG, GIF, PNG, EPS, etc) to the document.
@@ -40,21 +40,20 @@ After reading the [this document](http://www.ctan.org/tex-archive/info/lshort/)
 -  Learn how to manage .bib files. I recommend [JabRef](http://jabref.sourceforge.net/). (Mac users can use [BibDesk](http://bibdesk.sourceforge.net).)
 -  Using .bib and `bibtex`, cite a reference and create a final PDF file that includes a bibliography.
 
-There are several ways to create a final PDF file and include images. I just prefer 'pdflatex' and PDF image formats to other methods and formats.
+There are several ways to create a final PDF file and include images. I just prefer `pdflatex` and PDF image formats to other methods and formats.
 
 
-## Installing a Spell Checker for TeXworks
+## LTeX extension for VS Code
 
--  Follow [this instruction](http://tex.stackexchange.com/questions/235313/how-to-add-spell-checker-to-texworks-on-windows).
+- [LTeX](https://marketplace.visualstudio.com/items?itemName=valentjn.vscode-ltex) Extension for VS Code: Grammar/Spell Checker with LanguageTool and LATEX/Markdown Support
 
 
 ## Readings
 
 -  <a title="" href="http://www.ctan.org/tex-archive/info/lshort/" rel="nofollow">The Not So Short Introduction to LaTeX2e</a> -- Tobias Oetiker, Hubert Partl, Irene Hyna and Elisabeth Schlegl - A really nice manual for beginners
--  <a title="" href="http://mirrors.ctan.org/info/math/voss/mathmode/Mathmode.pdf" rel="nofollow">Math mode</a>: A superb explanation of the amsmath package and other math-related issues -- Herbert Voß
+-  <a title="" href="http://tug.ctan.org/obsolete/info/math/voss/mathmode/Mathmode.pdf" rel="nofollow">Math mode</a>: A superb explanation of the amsmath package and other math-related issues -- Herbert Voß
 -  <a title="" href="http://en.wikibooks.org/wiki/LaTeX" rel="nofollow">LaTeX Wikibook</a> - This contains good resources for both beginners and intermediate users. A PDF version is available <a title="" href="http://upload.wikimedia.org/wikipedia/commons/2/2d/LaTeX.pdf" rel="nofollow">here</a>.
 -  <a title="" href="http://mirror.ctan.org/info/l2tabu/english/l2tabuen.pdf" rel="nofollow">Obsolete packages and commands</a> -- Mark Trettin (Translated by Jürgen Fenn)
--  <a title="" href="http://uit.no/castl/4727/?colapsemenu=colapsemenu" rel="nofollow">LaTeX for Linguists</a> (but general enough) -- Sylvia Blaho and Patrik Bye
 -  <a title="" href="http://www.andy-roberts.net/misc/latex/index.html" rel="nofollow">Getting to grips with LaTeX</a> -- Andrew Roberts
 -  <a title="" href="http://www.eng.cam.ac.uk/help/tpl/textprocessing/" rel="nofollow">Text Processing using LaTeX</a> -- Cambridge University
 -  <a title="" href="http://www.macrotex.net/texbooks/" rel="nofollow">Recommended TeX and LaTeX Books</a> -- Adam H. Lewenberg
@@ -87,7 +86,7 @@ There are several ways to create a final PDF file and include images. I just pre
 -  <a title="" href="http://www.ctan.org/tex-archive/support/excel2latex/" rel="nofollow">Excel To LaTeX Conversion</a> -- You can create LaTeX codes for tables from an Excel spreadsheet directly.
 -  <a title="" href="http://detexify.kirelabs.org/classify.html" rel="nofollow">Detexify</a> -- Drawing a symbol will give you the LaTeX code for it.
 -  <a title="" href="http://hevea.inria.fr/index.html" rel="nofollow">HeVeA</a> - A good HTML translator for LaTeX.
--  <a title="" href="http://tug.org/applications/tex4ht/mn.html" rel="nofollow">TeX4ht</a> - The best HTML translator for LaTeX that I know of. The HTML version of my <a href="http://www.chkwon.net/pmwiki/Main/CV">CV</a> is created by the htlatex command of TeX4ht.
+-  <a title="" href="http://tug.org/applications/tex4ht/mn.html" rel="nofollow">TeX4ht</a> - The best HTML translator for LaTeX that I know of. 
 
 ## Graphics
 
@@ -159,7 +158,6 @@ Beamer is to generate presentation slides.
 -  <a title="" href="http://tex.loria.fr/general/new/fntguide.html" rel="nofollow">LaTeX2e font selection</a>
 -  Arial
 
-<div id="sourceblock2">
 <pre>usepackage[T1]{fontenc}
 usepackage[scaled]{uarial}
 renewcommand*familydefault{sfdefault}</pre>
