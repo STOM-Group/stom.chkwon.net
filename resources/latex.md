@@ -132,12 +132,7 @@ If your PDF graphic files are not converted, you should install <a href="http://
 
 If you receive error messages during conversion in Step 2, try to press the enter key several times to ignore errors. To make smoother conversion, try to minimize using packages and create tables as simple as possible. "Standard" packages such as amsmath works good enough.
 
-
-
-### Grammar Check
-One missing functionality in LaTeX is a grammar checker, while Microsoft Word has the best grammar checker. To use MS Word's grammar checker, follow the above guideline for conversion. Then you can use MS Word's powerful grammar checker.
-
-
+<!-- 
 ### Beamer
 Beamer is to generate presentation slides.
 
@@ -147,7 +142,7 @@ Beamer is to generate presentation slides.
 -  <a title="" href="http://www.chkwon.net/pmwiki/uploads/Main/beamer_guide_kim.pdf" rel="nofollow">Beamer v3.0 Guide</a> - Ki-Joo Kim
 -  <a title="" href="http://faq.ktug.or.kr/wiki/uploads/MathFonts.pdf" rel="nofollow">Math Fonts in Beamer</a>
 -  <a title="" href="http://deic.uab.es/~iblanes/beamer_gallery/index.html" rel="nofollow">Beamer theme gallery</a>
-
+ -->
 
 
 
@@ -189,7 +184,9 @@ renewcommand*familydefault{sfdefault}</pre>
 
 ### CV Templates
 
--  <a title="" href="http://nitens.org/taraborelli/cvtex" rel="nofollow">Dario Taraborelli's template</a>: A very good template. My <a href="http://www.chkwon.net/pmwiki/Main/CV">CV</a> is based on this template with some modifications.
+-  <a title="" href="http://nitens.org/taraborelli/cvtex" rel="nofollow">Dario Taraborelli's template</a>: A very good template. Link not working. Some descendants:
+  - https://github.com/bardsoftware/template-cv-academic
+  - https://github.com/sunshine8533/LatexResumeTemplate
 -  <a title="" href="http://www.cv-templates.info/" rel="nofollow">The CV Inn</a>
 -  <a title="" href="http://tex.stackexchange.com/questions/80/latex-template-for-resume-curriculum-vitae" rel="nofollow">LaTeX template for resume/curriculum vitae</a> - a stackexchange entry
 
