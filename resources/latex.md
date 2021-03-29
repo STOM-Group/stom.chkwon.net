@@ -66,20 +66,12 @@ There are several ways to create a final PDF file and include images. I prefer `
 - [University of South Florida](http://shell.cas.usf.edu/~saito/grad/)
 - [Thesis Templates](https://www.sharelatex.com/templates/thesis)
 
-<!--
 ## Links
-
 -  <a title="" href="http://www.ctan.org/" rel="nofollow">CTAN</a> - the Comprehensive TeX Archive Network
 -  <a title="" href="http://www.tug.org/" rel="nofollow">TUG</a> - TeX Users Group
 -  <a title="" href="http://www.ktug.or.kr/" rel="nofollow">KTUG</a> - Korean TeX Users Group {ko}
 -  <a title="" href="http://tex.stackexchange.com/" rel="nofollow">Tex LaTeX Stack Exchange</a> - collaborative Q&amp;A
--  <a href="http://www.chkwon.net/wordpress/wp-content/uploads/2012/12/ubthesis-latex.zip">UB Thesis Latex Template</a> - University at Buffalo Thesis Package, retrieved from <a title="" href="http://gitorious.org/ubthesis" rel="nofollow">ubthesis</a> by Justin Boffemmye
--  <a title="" href="http://www.esm.psu.edu/psuthesis/" rel="nofollow">PSU Thesis</a> - Penn State University Thesis Package
--  <a href="http://www.chkwon.net/wordpress/wp-content/uploads/2012/12/PSUThesisSWP.zip">Penn State Thesis Template for Scientific Workplace</a> - PSU Thesis Package for <a title="" href="http://www.mackichan.com/" rel="nofollow">Scientific Workplace</a>
 -  <a title="" href="http://www.fauskes.net/pgftikzexamples/" rel="nofollow">PGF and TikZ examples gallery</a>
-
-<div></div> -->
-
 
 ## Useful Tools
 
@@ -181,11 +173,9 @@ Beamer is to generate presentation slides.
 
 ### CV Templates
 
--  <a title="" href="http://nitens.org/taraborelli/cvtex" rel="nofollow">Dario Taraborelli's template</a>: A very good template. Link not working. Some descendants:
-  - [https://github.com/bardsoftware/template-cv-academic](https://github.com/bardsoftware/template-cv-academic)
-  - [https://github.com/sunshine8533/LatexResumeTemplate](https://github.com/sunshine8533/LatexResumeTemplate)
-
--  <a title="" href="http://www.cv-templates.info/" rel="nofollow">The CV Inn</a>
--  <a title="" href="http://tex.stackexchange.com/questions/80/latex-template-for-resume-curriculum-vitae" rel="nofollow">LaTeX template for resume/curriculum vitae</a> - a stackexchange entry
+-  [Dario Taraborelli's template](http://nitens.org/taraborelli/cvtex): A very good template. Link not working. Some descendants:
+   - [https://github.com/bardsoftware/template-cv-academic](https://github.com/bardsoftware/template-cv-academic)
+   - [https://github.com/sunshine8533/LatexResumeTemplate](https://github.com/sunshine8533/LatexResumeTemplate)
+-  [LaTeX template for resume/curriculum vitae](http://tex.stackexchange.com/questions/80/latex-template-for-resume-curriculum-vitae) - a stackexchange entry
 
 
