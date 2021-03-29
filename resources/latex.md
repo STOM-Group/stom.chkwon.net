@@ -15,7 +15,7 @@ subtitle:
   - [*Windows*] Download and install [TeX Live](http://www.tug.org/texlive/). Install FULL.
   - [*Mac OS*] Download and install [MacTeX](http://www.tug.org/mactex/). Install FULL.
 (MacTeX is a redistribution of TeXLive, so they are pretty much same.)
-2. I recommend [Visual Studio Code](https://code.visualstudio.com) as your LaTeX editor with the [LaTeX Workshop](https://marketplace.visualstudio.com/items?itemName=James-Yu.latex-workshop) extension.
+2. I strongly recommend [Visual Studio Code](https://code.visualstudio.com) as your LaTeX editor with the [LaTeX Workshop](https://marketplace.visualstudio.com/items?itemName=James-Yu.latex-workshop) extension.
 3. Use [this sample tex file](https://gist.github.com/chkwon/821ee403b67aa46ee166) as a quick start guide.
 4. Read [this document](http://www.ctan.org/tex-archive/info/lshort/). (This is available in many languages including English, Korean, Persian, Russian, Vietnamese, and Chinese.
 5. Start using it.
@@ -35,17 +35,18 @@ One simple template is provided:
 After reading [this document](http://www.ctan.org/tex-archive/info/lshort/), you may try to complete the following tasks:
 
 -  Produce a final PDF file.
--  Include a PDF image file (not JPG, GIF, PNG, EPS, etc) to the document.
+-  Include a PDF image file (not JPG, GIF, PNG, EPS, etc.) to the document.
 -  Write a table.
 -  Learn how to manage .bib files. I recommend [JabRef](http://jabref.sourceforge.net/). (Mac users can use [BibDesk](http://bibdesk.sourceforge.net).)
--  Using .bib and `bibtex`, cite a reference and create a final PDF file that includes a bibliography.
+-  Using `.bib` and `bibtex`, cite a reference and create a final PDF file that includes a bibliography.
 
-There are several ways to create a final PDF file and include images. I just prefer `pdflatex` and PDF image formats to other methods and formats.
+There are several ways to create a final PDF file and include images. I prefer `pdflatex` and PDF image formats.
 
 
-## LTeX extension for VS Code
+## Grammar and Spell Checkers
 
-- [LTeX](https://marketplace.visualstudio.com/items?itemName=valentjn.vscode-ltex) Extension for VS Code: Grammar/Spell Checker with LanguageTool and LATEX/Markdown Support
+- [Grammarly Extension for VS Code](https://marketplace.visualstudio.com/items?itemName=znck.grammarly): a grammar and spell checker from [grammarly.com](grammarly.com). It works well with LaTeX documents. A free account is good enough. 
+- [LTeX Extension for VS Code](https://marketplace.visualstudio.com/items?itemName=valentjn.vscode-ltex): a grammar and spell Checker with LanguageTool and LaTeX/Markdown Support. Free.
 
 
 ## Readings
@@ -92,7 +93,7 @@ There are several ways to create a final PDF file and include images. I just pre
 
 - [Export Excel Charts as PDF](https://cschleiden.wordpress.com/2009/09/28/howto-export-excel-charts-as-pdf-to-include-in-latex-document/)
 - [Ipe](http://ipe.otfried.org): A drawing editor with LaTeX source code as input
-- [Inkscape](http://inkscape.org) - This is an open source alternative to Adobe Illustrator. Inkscape can export drawings as LaTeX codes (save as PDF).
+- [Inkscape](http://inkscape.org) - This is an open-source alternative to Adobe Illustrator. Inkscape can export drawings as LaTeX codes (save as PDF).
   - <a title="" href="http://pav.iki.fi/software/textext/#instructions-for-windows" rel="nofollow">textext</a> - An Inkscape extension to enter LaTeX equations in Inkscape
 - [What GUI applications are there to assist in generating graphics for TeX?](http://tex.stackexchange.com/questions/26972/what-gui-applications-are-there-to-assist-in-generating-graphics-for-tex)
 - [What graphics packages are there for creating graphics in LaTeX documents?](http://tex.stackexchange.com/questions/205/what-graphics-packages-are-there-for-creating-graphics-in-latex-documents)
