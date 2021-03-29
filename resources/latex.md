@@ -153,10 +153,11 @@ Beamer is to generate presentation slides.
 -  <a title="" href="http://data12.da.funpic.de/LaTeX/Schriften/miktex_fonts.pdf" rel="nofollow">MiKTEX 2.3 Font Test</a>
 -  <a title="" href="http://tex.loria.fr/general/new/fntguide.html" rel="nofollow">LaTeX2e font selection</a>
 -  Arial
-
-<pre>usepackage[T1]{fontenc}
-usepackage[scaled]{uarial}
-renewcommand*familydefault{sfdefault}</pre>
+```latex
+\usepackage[T1]{fontenc}
+\usepackage[scaled]{uarial}
+\renewcommand*familydefault{sfdefault}
+```
 
 -  Times Roman
 
